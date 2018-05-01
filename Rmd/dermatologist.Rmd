@@ -1,0 +1,21 @@
+---
+title: "Dermatologist-level classification of skin cancer with deep neural networks"
+author: "Esteva et al. 2017"
+date: "March 11, 2018"
+output: html_document
+---
+
+### Abstract
+Skin cancer, the most common human malignancy, is primarily diagnosed visually, beginning with an initial clinical screening and followed potentially by dermoscopic analysis, a biopsy and histopathological examination. Automated classification of skin lesions using images is a challenging task owing to the fine-grained variability in the appearance of skin lesions. Deep convolutional neural networks (CNNs) show potential for general and highly variable tasks across many fine-grained object categories. Here we demonstrate classification of skin lesions using a single CNN, trained end-to-end from images directly, using only pixels and disease labels as inputs. We train a CNN using a dataset of 129,450 clinical images—two orders of magnitude larger than previous datasets—consisting of 2,032 different diseases. We test its performance against 21 board-certified dermatologists on biopsy-proven clinical images with two critical binary classification use cases: keratinocyte carcinomas versus benign seborrheic keratoses; and malignant melanomas versus benign nevi. The first case represents the identification of the most common cancers, the second represents the identification of the deadliest skin cancer. The CNN achieves performance on par with all tested experts across both tasks, demonstrating an artificial intelligence capable of classifying skin cancer with a level of competence comparable to dermatologists. Outfitted with deep neural networks, mobile devices can potentially extend the reach of dermatologists outside of the clinic. It is projected that 6.3 billion smartphone subscriptions will exist by the year 2021 and can therefore potentially provide low-cost universal access to vital diagnostic care.
+
+### Important Advances
+1. OUTCOMPETES MOST CLINICIANS
+1. Direct, end-to-end training (raw pixel to disease label). 
+2. Transfer learning to overcome photographic variability (GoogleNet Inception c3 CNN architecture).
+3. Large training dataset (129,450 images; 10-fold larger than any previous). 
+3. Tree-structured disease taxonomy. 
+
+
+
+
+

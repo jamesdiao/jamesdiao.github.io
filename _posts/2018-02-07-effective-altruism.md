@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Effective Altriusm"
+title: "Effective Altruism"
 author: James Diao
 date: 2018-02-07
 location: New Haven, CT
@@ -18,6 +18,7 @@ This Spring, I applied to and joined the Yale Effective Altriusm Fellowship. I'l
 2. [Which Social Interventions Work?](#uct)
 3. [Effective Altruism and Systemic Change](#systemic)
 4. [The Economics of Global Poverty](#poverty)
+5. [Public Health in Developing Countries](#publichealth)
 <br> 
 
 ___
@@ -101,7 +102,6 @@ ___
 - [Why You Should Focus More on Talent Gaps, not Funding Gaps](https://80000hours.org/2015/11/why-you-should-focus-more-on-talent-gaps-not-funding-gaps/)
 
 
-
 ## 4. The Economics of Global Poverty <a name="poverty"></a>
 
 ### Topic
@@ -114,4 +114,14 @@ This week's speaker is renowned development economist, Mark Rosenzweig, Frank Al
 - [Social Experiments to Fight Poverty](https://www.ted.com/talks/esther_duflo_social_experiments_to_fight_poverty/transcript)
 - [The Finnish Experiment](https://99percentinvisible.org/episode/the-finnish-experiment/)
 
+
+## 5. Public Health in Developing Countries <a name="publichealth"></a>
+
+### Topic
+> Dr. Humphries’ research addresses interactions between nutrition and infectious disease, as well as programmatic approaches to improving public health. She is currently collaborating on a longitudinal study to characterize parasite and host factors affecting response to deworming in Ghana.
+
+### Readings
+- [Sustainability of NGO capacity building in southern Africa: successes and opportunities](https://drive.google.com/file/d/1ycc2HXbsVyOzGLV660-tAgFaIp2jF4Qf/view)
+- [Cross-Sectional and Longitudinal Associations between Household Food Security and Child Anthropometry](https://drive.google.com/file/d/1JhXkxyFcRzU5msjyiuB2CaSPtT0XAzkx/view)
+- [Global Health and Development](https://www.effectivealtruism.org/articles/cause-profile-global-health-and-development/)
 
