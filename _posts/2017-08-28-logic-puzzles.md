@@ -15,12 +15,14 @@ I really enjoy logic puzzles, and I thought I'd compile a list of my favorites b
   2. [Cake Cutting](#CakeCutting)
   3. [Predicting Coin Flips](#PredictingCoinFlips)
   4. [Missing Square](#MissingSquare)
+  5. [Coins in a Line](#CoinsInLine)
   
 ### [Medium](#medium)
   1. [King and Poison](#KingAndPoison)
   2. [100 Airplane Seats](#100AirplaneSeats)
   3. [Prisoners and Lightbulb](#PrisonersAndLightbulb)
   4. [Ranking Racehorses](#Racehorses)
+  5. [The Fox and the Duck](#FoxDuck)
     
 ### [Hard](#hard)
   1. [100 Pirates](#100Pirates)
@@ -33,7 +35,7 @@ I really enjoy logic puzzles, and I thought I'd compile a list of my favorites b
 
 1. [Amoeba Jar](/html/amoeba-solution.html)<a name="AmoebaJar"></a>  
 > You've successfully engineered a new species of amoeba with a very impressive doubling time of 3 minutes (i.e., every 3 minutes, each amoeba will split into 2 new amoeba). You put a single amoeba in a jar, and it takes exactly one hour to fill the jar. You put two amoeba in a second jar. How long does it take to fill the second jar?  
-*Note: I actually heard this problem from an interviewer and it's been super interesting to see how people approach it. So far, around 1/3 of my friends answered this correctly on their first try and 1/2 (18/36) eventually figured it out.*
+*Note: I first heard this problem in an interview and it's been super interesting to see how people approach it. So far, around one-third (12/36) of my friends have answered this correctly on their first try. When given multiple tries, half (18/36) eventually figure it out.*
 
 2. [Cake Cutting](https://mathematicslounge.wordpress.com/2014/09/06/splitting-a-cake-with-a-missing-piece/)<a name="CakeCutting"></a>  
 > Jeremy and Jane would like to split a cake, but their friend Bob has already cut out a piece for himself. Bob’s slice is a rectangle of arbitrary size and rotation. How can Jeremy and Jane divide the remaining cake into two equal portions using a single cut from their knife?  
@@ -42,9 +44,13 @@ I really enjoy logic puzzles, and I thought I'd compile a list of my favorites b
 3. [Predicting Coin Flips](https://www.futilitycloset.com/2015/10/01/cruel-and-unusual-3/)<a name="PredictingCoinFlips"></a>  
 > Two mathematicians have been arrested and will soon both be imprisoned in separate towers. Each morning, a guard at each tower will flip a coin and show the result to his prisoner. Each prisoner must then guess the result of the coin flip at the other tower. If at least one guess is correct, both prisoners are spared. But if both guesses are incorrect, both prisoners will be executed. The mathematicians are allowed to briefly confer before being locked up. What strategy can spare them indefinitely?  
 ![Prisoner Coin Img](/img/prisoner-coin.jpg)
-3. [Missing Square](https://en.wikipedia.org/wiki/Missing_square_puzzle)<a name="MissingSquare"></a>  
-> Both A and B are constructed from the same shapes, but B is magically missing a square. Where did it go? 
+
+4. [Missing Square](https://en.wikipedia.org/wiki/Missing_square_puzzle)<a name="MissingSquare"></a>  
+> Both A and B are constructed from the same shapes, but B is magically missing a square. Where did it go?  
 ![Missing Square](/img/missing-square.png)
+
+5. [Coins in a Line](https://articles.leetcode.com/coins-in-line/)<a name="CoinsInLine"></a>
+> There are an even coins in a line, and each coin has a positive integer value. The total amount of money on the table is odd. We play a game: I take a coin from either end of the line, and then you take a coin from either end of the remaining line, and we continue taking turns until all the coins are gone. Whomever has more money at the end wins. What strategy can guarantee that the first player will always win? Is this strategy optimal (e.g., does it always maximize your earnings)?
 
 <br>
 
@@ -65,6 +71,9 @@ I really enjoy logic puzzles, and I thought I'd compile a list of my favorites b
 4. [Ranking Racehorses](https://mindyourdecisions.com/blog/2017/05/11/can-you-solve-the-25-horses-puzzle-google-interview-question/)<a name="Racehorses"></a>
 > You need to identify the fastest 3 horses out of 25. You can race up to 5 at a time to find out their relative speeds. You do not have a watch, and cannot learn any of their absolute speeds. What is the minimum number of races you need to conduct? 
 
+5. [The Fox and the Duck](http://www.mytechinterviews.com/the-fox-and-the-duck)<a name="FoxDuck"></a>
+> A duck is in the center of a circular lake. A fox, which runs four times faster than the duck can swim, runs along the circumference of the lake. The duck wants to make it to the shore and fly to safety. How can it do this, regardless of how the fox runs?
+
 ### Hard
 
 1. [100 Pirates](https://en.wikipedia.org/wiki/Pirate_game)<a name="100Pirates"></a>   
@@ -83,3 +92,4 @@ I really enjoy logic puzzles, and I thought I'd compile a list of my favorites b
 1. [Prisoners and Hats](https://en.wikipedia.org/wiki/Hat_puzzle#Prisoners_and_hats_puzzle)
 2. [DataGenetics Blog](http://datagenetics.com/blog.html)
 3. [Quora](https://www.quora.com/What-are-the-best-brain-teasers?page_size=10#!n=72)
+4. [Balance Puzzles](https://en.wikipedia.org/wiki/Balance_puzzle)
