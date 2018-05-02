@@ -20,6 +20,7 @@ I really enjoy logic puzzles, and I thought I'd compile a list of my favorites b
   1. [King and Poison](#KingAndPoison)
   2. [100 Airplane Seats](#100AirplaneSeats)
   3. [Prisoners and Lightbulb](#PrisonersAndLightbulb)
+  4. [Ranking Racehorses](#Racehorses)
     
 ### [Hard](#hard)
   1. [100 Pirates](#100Pirates)
@@ -60,6 +61,9 @@ I really enjoy logic puzzles, and I thought I'd compile a list of my favorites b
 *Hard Addendum: how about if the prisoners cannot count the elapsed days?*  
 *How about if every single prisoner needs to declare and be certain?*  
 ![Prisoners Lightbulb Img](/img/prisoners-lightbulb.png)
+
+4. [Ranking Racehorses](https://mindyourdecisions.com/blog/2017/05/11/can-you-solve-the-25-horses-puzzle-google-interview-question/)<a name="Racehorses"></a>
+> You need to identify the fastest 3 horses out of 25. You can race up to 5 at a time to find out their relative speeds. You do not have a watch, and cannot learn any of their absolute speeds. What is the minimum number of races you need to conduct? 
 
 ### Hard
 
