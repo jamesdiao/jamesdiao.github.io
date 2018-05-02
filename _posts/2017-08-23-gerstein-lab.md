@@ -33,7 +33,7 @@ Our tissues and fluids contain molecules called RNAs. In the past decade, it has
 
 
 #### Technical
-Using public extracellular RNA (exRNA) sequencing data, we demonstrate that small exRNAs cluster tightly by tissue and biofluid of origin. These patterns are demonstrable as visual patterns on dimensionality-reduced plots and are reasonably separable (by deconvolution) using standard supervised techniques. Further, we show that the miRNAs from related tissues and biofluids share similar signatures and allow for meaningful cross-predictions. The plotting tool is now [hosted on the exRNA Atlas](https://exrna-atlas.org/exat/precomputedJobs), and the deconvolution tool has been integrated as an analysis step in the [exceRpt pipeline](http://genboree.org/theCommons/projects/exrna-tools-may2014/wiki/Small_RNA-seq_Pipeline).  
+Using public extracellular RNA (exRNA) sequencing data, we demonstrate that small exRNAs cluster tightly by tissue and biofluid of origin. These patterns are demonstrable as visual patterns on dimensionality-reduced plots and are reasonably separable (by deconvolution) using standard supervised techniques. Further, we show that the miRNAs from related tissues and biofluids share similar signatures and allow for meaningful cross-predictions. The plotting tool is now [hosted on the exRNA Atlas](http://exrna-atlas.org/exat/publicAnalyses), and the deconvolution tool has been integrated as an analysis step in the [exceRpt pipeline](http://genboree.org/theCommons/projects/exrna-tools-may2014/wiki/Small_RNA-seq_Pipeline).  
 
 ## Background 
 
