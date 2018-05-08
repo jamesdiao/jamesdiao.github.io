@@ -3,7 +3,7 @@ layout: default
 title: Home Page
 ---
 
-Hi! My name is James, and I'm an incoming student at Harvard Medical School and MIT.  
+Hi! My name is James, and I'm an incoming medical student at Harvard and MIT.  
 This website is my collection of projects, puzzles, classes, talks, events, and experiences that have been important to me. Read more about me <a href="/about">here</a>, or click on one of the pictures below to check out some featured pages. 
 <br><br>
 
