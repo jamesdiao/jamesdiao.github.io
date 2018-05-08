@@ -21,24 +21,24 @@ This website is my collection of projects, puzzles, classes, talks, events, and 
   </td>
   <td class="right">
     <a href="/archives/2017/08/28/logic-puzzles">
-        <img src="/img/logic-questions.png" alt="Logic Problems" title="Logic Problems" style="width:220px;height:220px;">
+        <img src="/img/logic-questions.png" alt="Logic Puzzles" title="Logic Puzzles" style="width:220px;height:220px;">
     </a>
   </td>
 </tr>
 <tr>
   <td class="left">
     <a href="/archives/2017/08/23/favorite-papers">
-        <img src="/img/books.jpg" alt="Favorite Papers" title="Favorite Papers" style="width:220px;height:220px;">
+        <img src="/img/books.jpg" alt="Science Papers" title="Science Papers" style="width:220px;height:220px;">
     </a>
   </td>
   <td class="center">
     <a href="/archives/2017/08/23/gerstein-lab">
-        <img src="/img/gerstein-exrna.png" alt="ERCC Logo" title="ERCC Logo" style="width:220px;height:220px;">
+        <img src="/img/gerstein-exrna.png" alt="exRNA vesicle" title="Gerstein Lab" style="width:220px;height:220px;">
     </a>
   </td>
   <td class="right">
     <a href="/archives/2017/08/23/zak-lab">
-        <img src="/img/zaklab-exac.png" alt="ExAC UI" title="ExAC UI" style="width:220px;height:220px;">
+        <img src="/img/zaklab-exac.png" alt="ExAC UI" title="Zak Lab" style="width:220px;height:220px;">
     </a>
   </td>
 
