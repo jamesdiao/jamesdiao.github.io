@@ -48,7 +48,7 @@ This is a compilation of some of my favorite problems from probability and stati
 3. [Ants on a Stick](http://www.physics.montana.edu/avorontsov/teaching/problemoftheweek/documents/problem_Math004.pdf)<a name="AntsOnStick"></a>
 > There are <i>N</i> ants on a meterstick. The position of each ant is uniformly distributed along the stick. Each ant travels at constant speed and takes 1 minute to walk the length of the stick. At time t=0 min, each ant randomly chooses a direction (left or right are equally likely) and begins walking in that direction until it either falls off the stick or bumps into another ant. If it bumps into an ant, both switch directions.  
 Part 1: In terms of <i>N</i>, what is the maximum time it could take for all the ants to fall off?  
-Part 2: What is the average amount of time it takes for a random initial configuration of N ants to fall off the stick? (needs math)
+Part 2: What is the average amount of time it takes for a random initial configuration of N ants to all fall off the stick? (needs math)
 
 <br>
 

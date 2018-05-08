@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Coursework at Yale"
-date: 2018-01-05
+date: 2018-05-08
 author: James Diao
 location: New Haven, CT
 ---
 
-37 credits in fulfillment of requirements for Molecular Biophysics & Biochemistry (MB&B) and Statistics & Data Science (S&DS). Click on course titles for syllabus information. Notes for a few classes are included at the bottom.  
+Over my four years at Yale, I've taken almost 40 classes across a range of topics. Most were taken for my majors: Molecular Biophysics & Biochemistry (MB&B) and Statistics & Data Science (S&DS). Still, I did have a few awesome classes that I took just for fun! All of them are tabulated below. Syllabus information is linked to course titles, and notes for a few classes are included at the bottom.  
 
 <br /> 
 

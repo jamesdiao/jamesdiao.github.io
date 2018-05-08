@@ -25,6 +25,8 @@ MathJax.Hub.Queue(function() {
 </script>
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
+<img src="/img/gerstein-exrna-long.jpg" alt="exRNA Image" title="exRNA Image" style="width:680px;height:382px;">  
+<i><small>Extracellular RNAs (exRNAs) circulate through a range of human body fluids. NIH News Releases, 13 Aug. 2013, https://www.nih.gov/news-events/news-releases/nih-funds-research-explore-cell-communication-process.</small></i>
 
 ## tl;dr
 
@@ -33,7 +35,7 @@ Our tissues and fluids contain molecules called RNAs. In the past decade, it has
 
 
 #### Technical
-Using public extracellular RNA (exRNA) sequencing data, we demonstrate that small exRNAs cluster tightly by tissue and biofluid of origin. These patterns are demonstrable as visual patterns on dimensionality-reduced plots and are reasonably separable (by deconvolution) using standard supervised techniques. Further, we show that the miRNAs from related tissues and biofluids share similar signatures and allow for meaningful cross-predictions. The plotting tool is now [hosted on the exRNA Atlas](http://exrna-atlas.org/exat/publicAnalyses), and the deconvolution tool has been integrated as an analysis step in the [exceRpt pipeline](http://genboree.org/theCommons/projects/exrna-tools-may2014/wiki/Small_RNA-seq_Pipeline).  
+Using public extracellular RNA (exRNA) sequencing data, we demonstrate that small exRNAs cluster tightly by tissue and biofluid of origin. These patterns are demonstrable as visual patterns on dimensionality-reduced plots and are reasonably separable (by deconvolution) using standard supervised techniques. Further, we show that the miRNAs from related tissues and biofluids share similar signatures and allow for meaningful cross-predictions. The plotting tool is now [hosted on the exRNA Atlas](http://exrna-atlas.org/exat/publicAnalyses), and the deconvolution tool has been integrated into the [exceRpt pipeline](http://genboree.org/theCommons/projects/exrna-tools-may2014/wiki/Small_RNA-seq_Pipeline).  
 
 ## Background 
 
