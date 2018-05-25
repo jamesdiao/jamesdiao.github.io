@@ -15,7 +15,7 @@ This website is my collection of projects, puzzles, classes, talks, events, and 
     </a>
   </td>
   <td class="center">
-    <a href="/archives/2018/05/08/yale-coursework">
+    <a href="/archives/2018/05/08/yale-courses">
         <img src="/img/courses-word-cloud-sm.png" alt="Courses Word Cloud" title="Courses" style="width:220px;height:220px;">
     </a>
   </td>
