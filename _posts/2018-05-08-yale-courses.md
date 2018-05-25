@@ -6,9 +6,15 @@ author: James Diao
 location: New Haven, CT
 ---
 
-Over my four years at Yale, I've taken almost 40 classes across a range of topics. Most were taken for my majors: Molecular Biophysics & Biochemistry (MB&B) and Statistics & Data Science (S&DS). Still, I did have a few awesome classes that I took just for fun! All of them are tabulated below. Syllabus information is linked to course titles, and notes for a few classes are included at the bottom.  
+<div class="col-sm-5">
+  <img src="/img/courses-word-cloud-bg.png" alt="Courses Word Cloud" title="Courses" style="width:250px;height:292px;">
+</div>
+<div class="col-sm-7">
+  <br><br><br>
+  <p> Over my four years at Yale, I've taken around 40 classes across a range of topics. Most were for my majors: Molecular Biophysics & Biochemistry (MB&B) and Statistics & Data Science (S&DS). Still, I did find a few great classes to take just for fun! All of them are tabulated below. Syllabus information is linked to course titles, and notes for a few classes are included at the bottom. </p>
+  <br><br>
+</div>
 
-<br /> 
 
 <table class="table table-striped">
 <tbody>
@@ -88,7 +94,7 @@ Over my four years at Yale, I've taken almost 40 classes across a range of topic
 </tbody>
 </table>
 
-My notes over the years are linked below. Some are better than others. Some are quite long and might take 5-10 seconds to load.  
+My notes over the years are linked below. Some are quite long and might take 5-10 seconds to load.  
 1. ![PDF Icon](/img/pdf-icon-sm.png) [CHEM 124: Freshman Organic Chemistry I](/PDF/Course_Notes/CHEM124.pdf)   
 2. ![PDF Icon](/img/pdf-icon-sm.png) [CHEM 125: Freshman Organic Chemistry II](/PDF/Course_Notes/CHEM125.pdf)  
 3. ![PDF Icon](/img/pdf-icon-sm.png) [MB&B 300: Principles of Biochemistry Ia (Macromolecules)](/PDF/Course_Notes/MBB300a.pdf)  

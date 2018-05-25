@@ -27,7 +27,10 @@ I really enjoy logic puzzles, and I thought I'd compile a list of my favorites b
 ### [Hard](#hard)
   1. [100 Pirates](#100Pirates)
   2. [201 Islanders](#201Islanders)
-  3. [Coins on a Chessboard](#CoinsAndChessboard)
+
+### [Very Hard](#veryhard)
+  1. [Nim](#Nim)
+  2. [Coins on a Chessboard](#CoinsAndChessboard)
 
 <br>
 
@@ -82,7 +85,13 @@ I really enjoy logic puzzles, and I thought I'd compile a list of my favorites b
 2. [201 Islanders](https://xkcd.com/solution.html)<a name="201Islanders"></a>
 > There are 201 people on an island. 100 of them have blue eyes, 100 have brown eyes, and 1 has green eyes (the Guru). No one knows the color of their own eyes. Every night, a ferry stops at the island. Any islanders who have figured out the color of their own eyes will leave the island, and the rest stay. Everyone can see everyone else at all times and keeps a count of the number of people they see with each eye color (excluding themselves), but they cannot otherwise communicate. Once per day, the Guru tells them whether she sees at least one person with blue eyes. All islanders are perfect logicians. Everyone on the island knows all the rules in this paragraph. Who leaves the island, and on what night? 
 
-3. [Coins on a Chessboard](http://datagenetics.com/blog/december12014/index.html)<a name="CoinsAndChessboard"></a>
+### Very Hard
+
+1. [Nim](https://en.wikipedia.org/wiki/Nim)<a name="Nim"></a>
+> In the game of Nim, two players take turns removing objects from distinct heaps (in the below illustration, matches from distinct rows). On each turn, a player must choose a heap and take a non-zero number from that heap. The goal of the game is to avoid taking the last object. How can the first player win from any initial game state? 
+![Sample Nim Setup](/img/nim-matches.png)
+
+2. [Coins on a Chessboard](http://datagenetics.com/blog/december12014/index.html)<a name="CoinsAndChessboard"></a>
 > The jailer will take you into a private cell. In the cell will be a chessboard. The jailer will take 64 coins and place them, one-by-one, on each square on the board. He will place the coins on the board in any way he wants (in a pattern, at random, etc.). Once all the coins have been placed, the jailer will point to one of the squares on the board and say: "This square is the magic square." You must then choose exactly one coin to turn over--heads to tails, or tails to heads. You cannot opt out of this choice. You will then be led out of the room, and your friend will be led in. Your friend will look at the board of coins and guess the magic square. If he guesses correctly, you are both pardoned. If he guesses incorrectly, you are both executed. The jailer explains these rules to you and your friend and then gives you time to confer. What is the strategy that maximizes your chance of escape?  
 <br>
 ![Coins Chess](/img/chess-coins.png)
@@ -93,3 +102,4 @@ I really enjoy logic puzzles, and I thought I'd compile a list of my favorites b
 2. [DataGenetics Blog](http://datagenetics.com/blog.html)
 3. [Quora](https://www.quora.com/What-are-the-best-brain-teasers?page_size=10#!n=72)
 4. [Balance Puzzles](https://en.wikipedia.org/wiki/Balance_puzzle)
+5. [Notakto](https://en.wikipedia.org/wiki/Notakto)
