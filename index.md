@@ -4,14 +4,14 @@ title: Home Page
 ---
 
 Hi! My name is James, and I'm an incoming medical student at Harvard and MIT.  
-This website is my collection of projects, puzzles, classes, talks, events, and experiences that have been important to me. Read more about me <a href="/about">here</a>, or click on one of the pictures below to check out some featured pages. 
+This website is my collection of projects, puzzles, classes, talks, events, and experiences that have been important to me. Read more about me <a href="/about">here</a>, or click on a picture to check out a featured page. 
 <br><br>
 
 <table class="wide">
 <tr>
   <td class="left">
-    <a href="/archives/2018/04/30/hst">
-        <img src="/img/hms-logo.jpg" alt="HMS Logo" title="My Road to HST" style="width:220px;height:220px;">
+    <a href="/archives/2018/02/26/ioannidis-derivation">
+        <img src="/img/confusion-matrix.png" alt="Classifying Research Papers" title="Classifying Research Papers" style="width:220px;height:220px;">
     </a>
   </td>
   <td class="center">

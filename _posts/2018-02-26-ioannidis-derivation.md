@@ -24,9 +24,13 @@ How does one even begin to prove such a claim? The simplest approach would be to
 
 ## 1. Overview
 
-Ioannidis explores the reliability of research findings in terms of positive predictive value (PPV)---the probability that a finding is actually true, given that it is claimed to be true. Using basic probability theory, we can derive an expression for PPV in terms of well-defined and estimable parameters: power (1-*&beta;*), significance level (*&alpha;*), bias (*u*), number of studies (*n*), and pre-study odds (*R*). 
+Ioannidis explores the reliability of research findings in terms of positive predictive value (PPV)---the probability that a finding is actually true, given that it is claimed to be true. 
 
-\\[ PPV = \frac{R(1-\beta')}{R(1-\beta') + \alpha'}\\]
+\\[ PPV = \frac{P(\textrm{Claimed True and Actually True})}{P(\textrm{Claimed True})} \\]
+
+Using basic probability theory, we can derive an expression for PPV in terms of well-defined and estimable parameters: power (1-*&beta;*), significance level (*&alpha;*), bias (*u*), number of studies (*n*), and pre-study odds (*R*). 
+
+\\[ PPV = \frac{R(1-\beta')}{R(1-\beta') + \alpha'} \\]
 
 where, if you account for bias and multiple studies under a few assumptions:
 
