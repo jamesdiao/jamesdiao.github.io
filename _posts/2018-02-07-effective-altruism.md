@@ -7,7 +7,7 @@ location: New Haven, CT
 ---
 
 
-This Spring, I applied to and joined the Yale Effective Altriusm Fellowship. I'll give more details later, but I just want to use this post to keep track of what I learn throughout. 
+This Spring, I applied to and joined the Yale Effective Altriusm Fellowship. EA is a movement I've been quite interested in for a while, and the fellowship offered a really cool opportunity to have in-depth conversations with professors and experts who have been thinking about these things a lot longer than I have. This post is just to keep track of what I learn throughout. 
 
 [<img src="/img/yea-logo.png" alt="YEA Logo" style="width: 500px; "/>](http://yaleea.com/fellowship/)
 
@@ -19,6 +19,8 @@ This Spring, I applied to and joined the Yale Effective Altriusm Fellowship. I'l
 3. [Effective Altruism and Systemic Change](#systemic)
 4. [The Economics of Global Poverty](#poverty)
 5. [Public Health in Developing Countries](#publichealth)
+6. [The Cognitive Capacity of Artificial Intelligence](#cognitiveAI)
+7. [Social Norms and Giving](#socialnorms)
 <br> 
 
 ___
@@ -106,7 +108,7 @@ ___
 
 ### Topic
 > While donating to charity, we often consider not only where our donations are going, but also the impact our donations are making. But how do we know that our donations are having their intended effect? This week we'll examine development economics and the current evidence in poverty alleviation.  
-This week's speaker is renowned development economist, Mark Rosenzweig, Frank Altschul Professor of International Economics and Director of the Economic Growth Center. His research has covered a wide range of topics, including marital and fertility decisions, risk coping mechanisms, labor markets, human capital decisions,  adoption of technologies, and  provision of local public goods. Rosenzweig received his B.A., M.A., and Ph.D. from Columbia University in 1969, 1971, and 1973, respectively.
+This week's speaker is renowned development economist, Mark Rosenzweig, the Frank Altschul Professor of International Economics and Director of the Economic Growth Center. His research has covered a wide range of topics, including marital and fertility decisions, risk coping mechanisms, labor markets, human capital decisions,  adoption of technologies, and  provision of local public goods. Rosenzweig received his B.A., M.A., and Ph.D. from Columbia University in 1969, 1971, and 1973, respectively.
 
 ### Readings
 - [Explaining the U-Shaped Pattern of Farm Size and Productivity](http://www.nber.org/digest/dec17/dec17.pdf)
@@ -118,10 +120,36 @@ This week's speaker is renowned development economist, Mark Rosenzweig, Frank Al
 ## 5. Public Health in Developing Countries <a name="publichealth"></a>
 
 ### Topic
-> Dr. Humphries’ research addresses interactions between nutrition and infectious disease, as well as programmatic approaches to improving public health. She is currently collaborating on a longitudinal study to characterize parasite and host factors affecting response to deworming in Ghana.
+> This week's discussion is with Dr. Debbie Humphries, Clinical Instructor in Epidemiology at the Yale School of Public Health. Dr. Humphries’s research addresses interactions between nutrition and infectious disease, as well as programmatic approaches to improving public health. She is currently collaborating on a longitudinal study to characterize parasite and host factors affecting response to deworming in Ghana.
 
 ### Readings
 - [Sustainability of NGO capacity building in southern Africa: successes and opportunities](https://drive.google.com/file/d/1ycc2HXbsVyOzGLV660-tAgFaIp2jF4Qf/view)
 - [Cross-Sectional and Longitudinal Associations between Household Food Security and Child Anthropometry](https://drive.google.com/file/d/1JhXkxyFcRzU5msjyiuB2CaSPtT0XAzkx/view)
 - [Global Health and Development](https://www.effectivealtruism.org/articles/cause-profile-global-health-and-development/)
+
+
+
+## 6. The Cognitive Capacity of Artificial Intelligence <a name="cognitiveAI"></a>
+
+### Topic
+> Are there limits to the cognitive ability of computers? To what extent does AI pose a threat in the future? Join the discussion regarding our collective responsibility for the progress of artificial intelligence.  
+Professor Julian Jara-Ettinger, Assistant Professor in Psychology, studies the fundamental representations and computations that underlie our ability to navigate the social and physical world. His research combines behavioral studies with mathematical models and computer simulations to develop and test cognitive theories. 
+
+### Readings
+- [TED Talk by Nick Bostrom: what happens when our computers get smarter than we are?](https://www.ted.com/talks/nick_bostrom_what_happens_when_our_computers_get_smarter_than_we_are#t-580640)
+- [What AI Does (and Doesn't) mean for Effective Altruism](https://www.effectivealtruism.org/articles/what-does-and-doesnt-ai-mean-for-effective-altruism-owen-cotton-barratt/)
+- [Not So Innocent: toddlers' inferences about costs and culpability](http://journals.sagepub.com/doi/pdf/10.1177/0956797615572806)
+
+
+
+## 7. Social Norms and Giving <a name="socialnorms"></a>
+
+### Topic
+> Why are numbers often overlooked in favor of categorical descriptions? Why are acts of giving often ostentatious? We'll discuss how people (and we!) might be encouraged to give more effectively and altruistically.  
+This week's discussion is with Erez Yoeli, Co-Director of the Yale Applied Cooperation Team. Erez Yoeli is a research scientist at Harvard’s Program for Evolutionary Dynamics (PED). He uses game theory to study puzzling aspects of people’s sense of rights, ethics, and altruism, then applies this work to problems like energy conservation, antibiotic adherence, and smoking reduction. Before joining PED, Erez was an economist at the Federal Trade Commission.
+
+### Readings
+- [Why Norms are Categorical](https://www.dropbox.com/s/rruqp6hgr8bwz7b/MH_2018_Categorical_Norms.pdf?dl=0)
+- [Reputations can Explain Ineffective Altruism](https://www.dropbox.com/s/rikmaooxzsqbmg7/ineffective_giving_current_draft.docx?dl=0)
+- [To Inspire People to Give: be public about your giving](http://effective-altruism.com/ea/7q/to_inspire_people_to_give_be_public_about_your/)
 

@@ -6,7 +6,7 @@ author: James Diao
 location: Boston, MA
 ---
 
-Although I haven't actually starting taking any classes at HMS yet, the fixed course schedule of medical school means I have a pretty good idea what to expect. There's less diversity than my liberal arts undergrad, but I'm very excited to focus in on medicine. In particular, HST packs in several topics that aren't usually found in medical school curricula, such as programming (MATLAB), medical imaging, and bioinformatics. 
+Although I haven't actually starting taking any classes at HMS yet, the fixed course schedule of medical school means I have a pretty good idea what to expect. There's less diversity than in undergrad, but I'm very excited to focus in on medicine. I'm especially excited about some of HST's unique science/engineering offerings, such as probabilistic inference, medical imaging, and bioinformatics. 
 
 The full curriculum is linked here: 
 <embed src="https://meded.hms.harvard.edu/files/hms-med-ed/files/hst_curriculum_map.pdf" width="750px" height="600px" type='application/pdf'>
@@ -77,7 +77,7 @@ I've also written it up as an HTML table so that I can link interesting material
 <tr class="odd">
 <td align="left"><b>M3</b></td>
 <td align="left">Year</td>
-<td align="left" colspan="5"><small>Principle Clinical Experience and Core Clerkships <br>(Medicine, Neurology, OB/GYN, Pediatrics, Primary Care, Psychiatry, Radiology, Surgery)</small></td>
+<td align="left" colspan="5"><small>Principal Clinical Experience and Core Clerkships <br>(Medicine, Neurology, OB/GYN, Pediatrics, Primary Care, Psychiatry, Radiology, Surgery)</small></td>
 <td align="left"><small>USMLE <br>STEP 1</small></td>
 </tr>
 <tr class="odd">

@@ -11,7 +11,7 @@ location: New Haven, CT
 </div>
 <div class="col-sm-7">
   <br><br><br>
-  <p> Over my four years at Yale, I've taken around 40 classes across a range of topics. Most were for my majors: Molecular Biophysics & Biochemistry (MB&B) and Statistics & Data Science (S&DS). Still, I did find a few great classes to take just for fun! All of them are tabulated below. Syllabus information is linked to course titles, and notes for a few classes are included at the bottom. </p>
+  <p> Over my four years at Yale, I've taken around 40 classes across a range of topics. Most were for my majors: Molecular Biophysics & Biochemistry (MB&B) and Statistics & Data Science (S&DS). Others, like my modern essay-writing class, were just for fun. All of them are tabulated below. Syllabus information is linked to course titles, and notes for a few classes are included at the bottom. </p>
   <br><br>
 </div>
 

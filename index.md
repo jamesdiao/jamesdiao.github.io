@@ -3,8 +3,7 @@ layout: default
 title: Home Page
 ---
 
-Hi! My name is James, and I'm an incoming medical student at Harvard and MIT.  
-This website is my collection of projects, puzzles, classes, talks, events, and experiences that have been important to me. Read more about me <a href="/about">here</a>, or click on a picture to check out a featured page. 
+Hi! This website is my collection of projects, puzzles, classes, talks, events, and experiences that have been important to me. Read more about me <a href="/about">here</a>, or check out a featured page below. 
 <br><br>
 
 <table class="wide">
