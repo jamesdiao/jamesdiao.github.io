@@ -6,22 +6,17 @@ author: James Diao
 location: Boston, MA
 ---
 
-Although I haven't actually starting taking any classes at HMS yet, the fixed course schedule of medical school means I have a pretty good idea what to expect. There's less diversity than in undergrad, but I'm very excited to focus in on medicine. I'm especially excited about some of HST's unique science/engineering offerings, such as probabilistic inference, medical imaging, and bioinformatics. 
-
-The full curriculum is linked here: 
-<embed src="https://meded.hms.harvard.edu/files/hms-med-ed/files/hst_curriculum_map.pdf" width="750px" height="600px" type='application/pdf'>
-
-<br>
-I've also written it up as an HTML table so that I can link interesting materials later. 
+Although I haven't actually taken many classes at HMS yet, the fixed course schedule of medical school means I have a pretty good idea what to expect. There's less diversity than in undergrad, but I'm very excited to focus in on medicine. I'm especially excited about some of HST's unique science/engineering offerings, such as medical imaging and informatics. 
+<br><br>
 
 <table class="table table-striped">
 <tbody>
 <tr class="odd">
 <td align="left"><b>M1</b></td>
 <td align="left">Summer</td>
-<td align="left"><small>HST 015 MATLAB for Medicine</small></td>
-<td align="left"><small>HST 190 <br>Intro to Biostatistics</small></td>
-<td align="left"><small>IN 555 <br>Intro to the Profession</small></td>
+<td align="left"><small><a href="/PDF/Syllabi/HST015.pdf">HST 015</a> MATLAB for Medicine</small></td>
+<td align="left"><small><a href="/PDF/Syllabi/HST190.pdf">HST 190</a> <br>Intro to Biostatistics</small></td>
+<td align="left"><small><a href="/PDF/Syllabi/IN555.pdf">IN 555</a> <br>Intro to the Profession</small></td>
 <td align="left"><small></small></td>
 <td align="left"><small></small></td>
 <td align="left"><small></small></td>
@@ -31,10 +26,10 @@ I've also written it up as an HTML table so that I can link interesting material
 <td align="left">Fall</td>
 <td align="left"><small>HST 010 Human Functional Anatomy</small></td>
 <td align="left"><small>HST 030 <br>Human Pathology</small></td>
-<td align="left"><small>HST 146 Biochemistry & Metabolism</small></td>
+<td align="left"><small><a href="/PDF/Syllabi/HST146.pdf">HST 146</a> Biochemistry & Metabolism</small></td>
 <td align="left"><small>HST 160 <br>Medical Genetics</small></td>
 <td align="left"><small>HST 162 Molecular Diagnostics & Bioinformatics</small></td>
-<td align="left"><small>HST 175 Cellular & Molecular Immunology</small></td>
+<td align="left"><small><a href="/PDF/Syllabi/HST175.pdf">HST 175</a> Cellular & Molecular Immunology</small></td>
 </tr>
 <tr class="odd">
 <td align="left"></td>
