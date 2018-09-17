@@ -61,11 +61,7 @@ One prominent failure was IBM's Watson, which was [dropped by MD Anderson Cancer
 
 However, recent news has been much more optimistic. [Google has developed a system to detect diabetic retinopathy using retinal images](http://jamanetwork.com/journals/jama/fullarticle/2588763), which it has already begun to deploy in India.  
 
-![Google Retinopathy](/img/drlearnt.jpg){:height="250px" width="500px"}  
-
 Maha argued that this technology will not replace ophthalmologists, since a sliver of their work and incomes depend on diagnosis. In fact, most of their money comes from operating. Maha then claims that AI would actually free doctors from the less lucrative parts of their work (e.g. image analysis). Another prominent success is [Stanford's landmark paper that classifies skin cancers](http://www.nature.com/nature/journal/v542/n7639/full/nature21056.html).  
-
-![Stanford Skin Cancers](/img/lesionslearnt.jpg){:height="300px" width="300px"}  
 
 Maha extends the same line of argument, claiming that this leads to more referrals for biopsies. She also warns against doctors' incentives to push the ROC decision point towards more sensitive and less specific settings, which increases biopsies. 
 
