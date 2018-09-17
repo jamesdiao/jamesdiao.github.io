@@ -24,12 +24,12 @@ Although I haven't actually taken many classes at HMS yet, the fixed course sche
 <tr class="even">
 <td align="left"></td>
 <td align="left">Fall</td>
-<td align="left"><small>HST 010 Human Functional Anatomy</small></td>
-<td align="left"><small>HST 030 <br>Human Pathology</small></td>
-<td align="left"><small><a href="/PDF/Syllabi/HST146.pdf">HST 146</a> Biochemistry & Metabolism</small></td>
-<td align="left"><small>HST 160 <br>Medical Genetics</small></td>
+<td align="left"><small><a href="/PDF/Syllabi/HST010.pdf">HST 010 </a>Human Functional Anatomy</small></td>
+<td align="left"><small><a href="/PDF/Syllabi/HST030.pdf">HST 030 </a> <br>Human Pathology</small></td>
+<td align="left"><small><a href="/PDF/Syllabi/HST146.pdf">HST 146 </a> Biochemistry & Metabolism</small></td>
+<td align="left"><small><a href="/PDF/Syllabi/HST160.pdf">HST 160 </a> <br>Medical Genetics</small></td>
 <td align="left"><small>HST 162 Molecular Diagnostics & Bioinformatics</small></td>
-<td align="left"><small><a href="/PDF/Syllabi/HST175.pdf">HST 175</a> Cellular & Molecular Immunology</small></td>
+<td align="left"><small><a href="/PDF/Syllabi/HST175.pdf">HST 175 </a> Cellular & Molecular Immunology</small></td>
 </tr>
 <tr class="odd">
 <td align="left"></td>

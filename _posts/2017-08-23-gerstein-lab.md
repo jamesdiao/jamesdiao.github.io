@@ -50,7 +50,7 @@ RNA molecules were once thought to exist only as stable molecules inside cells. 
 1. [Freedman 2016](https://www.nature.com/articles/ncomms11106). Diverse human extracellular RNAs are widely detected in human plasma. *Nature Communications*. 
 2. [Patton 2015](https://www.ncbi.nlm.nih.gov/pubmed/26320939). Biogenesis, delivery, and function of extracellular RNA. *Journal of Extracellular Vesicles*. 
 3. [Williams 2013](http://www.pnas.org/content/110/11/4255.long). Comprehensive profiling of circulating microRNA via small RNA sequencing of cDNA libraries reveals biomarker potential and limitations. *PNAS*. 
-4. [Creemers 2012](http://circres.ahajournals.org/content/110/3/483.long). Circulating MicroRNAs: Novel biomarkers and extracellular communicators in cardiovascular disease. *Circulation Research*. 
+4. [Creemers 2012](https://www.ncbi.nlm.nih.gov/pubmed/22302755). Circulating MicroRNAs: Novel biomarkers and extracellular communicators in cardiovascular disease. *Circulation Research*. 
 
 
 ## Project 1: Plotting Tool
