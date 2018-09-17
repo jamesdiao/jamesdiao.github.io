@@ -15,11 +15,15 @@ Since I'm quite undecided about which area I want to specialize in, I thought it
 ## tl;dr
 
 - **General work**
-    - Diagnostic, management, and curative work. 
+    - Largely diagnostic and care management work. 
     - Subspecializations include stroke, epilepsy, and neuro-oncology
+- **Patient interaction**
+    - Chronic illness and longitudinal treatment means long-term relationships
+    - Ability to help manage diseases that profoundly change the way patients interact with the world
 - **Lifestyle**
     - Hours: around 8:30am to 6:00pm
-    - Variable workload: ranges from Netflix and Youtube to constant admissions and patient visits
+    - Variable workload: ranges from Netflix/Youtube to constant admissions and patient visits
+    - Good flexibility: can maintain a regular schedule of 1 week on, 1 week off, or down to 1 outpatient day/week
 
 ## HMS Match
 
