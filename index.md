@@ -26,8 +26,8 @@ Hi! This website is my collection of projects, puzzles, classes, talks, events, 
 </tr>
 <tr>
   <td class="left">
-    <a href="/archives/2017/08/23/favorite-papers">
-        <img src="/img/books.jpg" alt="Science Papers" title="Science Papers" style="width:220px;height:220px;">
+    <a href="/archives/2018/08/12/md-roi">
+        <img src="/img/md-roi-cover.jpg" alt="MD ROI" title="MD ROI" style="width:220px;height:220px;">
     </a>
   </td>
   <td class="center">
