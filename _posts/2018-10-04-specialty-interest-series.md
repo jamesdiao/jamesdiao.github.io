@@ -18,6 +18,8 @@ Since I'm quite undecided about which area I want to specialize in, I thought it
 2. [Neurology](#neuro)
 3. [Orthopedic Surgery](#ortho)
 4. [Radiology](#rad)
+5. [Ophthalmology](#eyes)
+6. [Amusing Stereotypes](#pics)
 
 ## Radiation Oncology (08/23/2018) <a name="radonc"></a>
 
@@ -33,9 +35,7 @@ Since I'm quite undecided about which area I want to specialize in, I thought it
     - Hours: around 8:30am to 5:00pm
     - Almost every clinician present talked about how they appreciated the flexibility, predictability, and balance of the field
 - **Well-compensated**
-    - D'Amico: radiation oncologists are paid "a surgeon's salary"
-    - In Boston, this amounts to around \$300,000 per year + \$50,000 bonus
-    - By comparison, most internal medicine subspecialists are paid around $100,000 less
+    - D'Amico: radiation oncologists are paid "a surgeon's salary". In Boston, this amounts to around \$300,000 per year + \$50,000 bonus. By comparison, most internal medicine subspecialists are paid around $100,000 less
 - **Small field**
     - D'Amico: each year, there may only be fewer than 6 job openings in all of Boston
 - **Highly technical**
@@ -50,6 +50,8 @@ Since I'm quite undecided about which area I want to specialize in, I thought it
 - Mid-low number of applicants: average 8 per year (range: 4-11)
 - High internal match rate: 50% of HMS students who successfully matched into radiation oncology went to BWH/DFCC/MGH (range: 38-75%)
 - High interest from HST (7/8 applicants were from HST in 2016)
+
+<br>
 
 #### Anthony D'Amico 
 
@@ -107,6 +109,8 @@ The hours go from around 8:00-9:00 to 4:30-5:30. Most of time is clinical, with 
 - Mid-low number of applicants: average 6 per year (range: 5-7)
 - High internal match rate: 79% of HMS students who successfully matched into neurology or child neurology went to BCH/MGH
 
+<br>
+
 #### David Chung 
 
 > Neurology resident at MGH; Fellow in Neurocritical Care
@@ -155,7 +159,7 @@ That being said, I can tell you more about life as an attending. My schedule inv
     - Hours: around 7am-5pm
     - Work-life balance seems doable in residency and as an attending 
 
-## HMS Match
+### HMS Match
 
 > Based on 25 applicants in orthopedic surgery from the 2015-2018 match lists
 
@@ -163,6 +167,7 @@ That being said, I can tell you more about life as an attending. My schedule inv
 - Low internal match rate: 28% of HMS students who successfully matched into orthopedic surgery went to HCORP (Harvard Combined Orthopedic Residency Program)
 - Diverse match locations: aside from HCORP, few residency programs are consistently popular
 
+<br>
 
 #### Samantha Spencer
 
@@ -201,11 +206,15 @@ In terms of getting in: you don't need all your research to be in ortho itself. 
     - Inteventional: performing image-guided procedures (embolization, stenting, tumor ablation, etc.)
 - **Patient interaction**
     - Low: two panel members described working behind the scenes and being okay with getting less credit
-    - Most interactions are with radiology colleagues and consulting physicians
+    - Most interactions are with radiology colleagues and consulting physicians; radiologists seem to generally enjoy playing the role of expert consultant
+- **Technology**
+    - Most radiologists love the imaging technology they work with
+    - No one seemed that concerned about being replaced by AI, but more due to machine capability reasons than implementation reasons (I would have guessed the opposite)
 - **Lifestyle**
     - Hours: around 7am-7pm for IR (interventional), 8am-6pm for DR (diagnostic)
+    - Both residents and attendings speak positively of lifestyle considerations
 
-## HMS Match
+### HMS Match
 
 > Based on 24 applicants in radiology (DR/IR) from the 2015-2018 match lists
 
@@ -213,6 +222,8 @@ In terms of getting in: you don't need all your research to be in ortho itself. 
 - Low internal match rate: 25% of HMS students who successfully matched into radiology went to MGH/BWH
 - Other popular match locations: 25% to Penn, 21% to UCSF
 - All integrated IR applicants (2/2) matched at MGH/BWH
+
+<br>
 
 #### Dominique Rowcroft
 
@@ -251,8 +262,63 @@ I was the first resident in the integrated program at the Brigham, so I'm the gu
 
 I did 2 years of surgery before switching to IR. I really like having ownership of my own patients. For example, I got an email from a patient from more than three years ago letting me know how he's been doing. I really appreciate this part of my career. 
 
+## Ophthalmology (11/01/2018) <a name="eyes"></a>
+
+### tl;dr
+
+- **General work**
+    - Diagnostic: check-ups, diagnoses, and referrals; one primary objective here is to generate surgical volume
+    - Surgery: usually cataract (10-15 min) and retinal (2-3 hr) cases. Surgical time varies greatly between work settings, but may average to around 25% of one's time
+- **Global health**
+    - Cataract surgery is a quick and cost-effective intervention for improving health in developing countries
+- **Lifestyle**
+    - Very flexible; hours, call, and surgical load depends on subspecialty/fellowship training and practice setting
+    - Private practice is much more clinical. Retinal work has more call; comprehensive (general) ophthalmology has less call
+    - Lifestyle can be busy in solo or satellite practice
+
+### HMS Match
+
+> Based on 32 applicants from the 2015-2018 match lists
+
+- Mid-low number of applicants: average 5 per year (range: 4-7)
+- Very low internal match rate: only 2 out of 20 HMS students who successfully matched into ophthalmology went to Mass Eye and Ear
+- Diverse match locations: no single hospital matched more than 15% of HMS applicants
+
+<br>
+
+#### Sherleen Chen 
+> Director of the Comprehensive Ophthalmology and Cataract Consultation Service
+
+Most of my time is spent in outpatient patient care, not in surgery. Still, these visits are necessary for me to see enough patients to generate surgical volume; only around 6% of visits lead to cataract surgery cases. My job provides great work-life balance; I can easily ramp up or down to adjust to family or other demands. I know that my work is important; vision is so precious to patients. Ophthalmology is also one of the happiest specialties with the lowest burnout rates. 93% of practicing ophthalmologists would choose the same specialty, 2nd only to dermatology (96%). 
+
+#### Alice Lorch
+> Chief Quality Officer at MEEI
+
+I chose ophthalmology because I enjoyed performing the physical exam and the procedures; I also liked working with lenses, understanding the structures of the eye, and the surgical aspect. Patients really value their sight and losing it is a huge deal. They are always so appreciative of the work I do. 
+
+#### Elizabeth Rossin 
+> Instructor in Ophthalmology, Director of the Ocular Trauma Service
+
+In ophthalmology, it is easy to access the organ you’re studying. Drugs and interventions can be delivered and observed directly; ophthalmic research is very translational. Ophthalmology also interfaces with many other specialties, including rheumatology, oncology, and endocrinology (usually diabetic retinopathy). We also function as "gateway diagnosticians", because many patients will ignore their symptoms only until their vision begins to decline; we end up being the first physicians they come to. 
+
+#### Roberto Pineda
+> Associate Professor of Ophthalmology, Associate Director of Global Surgery and Health at MEEI
+
+I come from an engineering background, so I enjoy working with all the tools and gadgets in this field. One of the reasons I was originally thinking internal medicine over specializing is that I wanted to work in global health and public health, and I thought you had to be a generalist. I've found that you can do this just as well in ophthalmology as a specialist. Most physicians don't know much about the eye, and I like being a specialist and having this knowledge that other physicians consult me for. 
 
 
+## Amusing Stereotypes <a name="pics"></a>
+
+<img src="/img/md-stereotypes.jpg" alt="MD Specialty Stereotypes" title="MD Specialty Stereotypes" style="width:860px;height:625px;"> 
+
+<table class="wide">
+  <td class="left">
+    <img src="/img/md-flowchart-2.jpg" alt="MD Specialty Flowchart 1" title="MD Specialty Flowchart 1" style="width:370px;height:370px;"> 
+  </td>
+  <td class="right">
+    <img src="/img/md-flowchart-1.png" alt="MD Specialty Flowchart 2" title="MD Specialty Flowchart 2" style="width:490px;height:368px;"> 
+  </td>
+</table>
 
 
 
