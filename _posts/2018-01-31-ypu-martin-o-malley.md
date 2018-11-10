@@ -71,7 +71,7 @@ He then delivered a short and unstructured litany of arguments about the spirit 
 #### My Thoughts
 I was surprised by how long O'Malley spent framing the resolution, "support sanctuary cities," within the broader context of immigration reform. The cynical side of me thinks that this is just so that he can lean on more practiced, off-topic arguments (it sounded a bit like a recycled campaign speech). Still, his approach did expand the breadth of topics I learned about.  
 
-I was especially interested in the argument against creating "stateless people," and violating [Article 14 of the UN Declaration of Human Rights](http://www.un.org/en/universal-declaration-human-rights/), that "everyone has the right to a nationality." In high school debate, I had read a bit about Agamben's concept of *Homo Sacer*, and it helped me wrap the impact of deportation around some political theory.  
+I was especially interested in the argument against creating "stateless people," and violating [Article 14 of the UN Declaration of Human Rights](http://www.un.org/en/universal-declaration-human-rights/), that "everyone has the right to a nationality." In high school debate, I had read a bit about Agamben's concept of *homo sacer*, and it helped me wrap the impact of deportation around some political theory.  
 
 I was also interested in how he connected current immigration policy (including Trump's infamous comment about "shithole countries") to historic exclusionary anti-Irish and anti-Chinese legislation. It called attention to the history of immigration policy and its racial components. I only wished he spent a bit more time expanding on these parallels later in his speech. 
 
@@ -120,12 +120,12 @@ Immigrants don't undermine American values, racism undermines American values. M
 #### My Thoughts
 This was O'Malley's most emotionally-charged point. He went hard for the military service angle and tied back the Emma Lazarus quote at the end. Additionally, he finally made some comments about the actual topic (enforcing federal laws) and described his own experience with Baltimore as a sanctuary city.
 
-This is a very subjective area to debate. In my totally unbiased opinion, I agree with everything about all immigrants being true Americans. However, I will point out that all of O'Malley's numbers include legal immigrants as well as illegal immigrants, which is a bit disingenuous. He does touch on some arguments about enforcing federal immigration law, including a new argument around the prison-industrial complex, but not in enough depth to warrant more discussion. 
+This is a very subjective area to debate. In my totally unbiased opinion, I agree with the general concept of long-term immigrants deserving consideration based on their contributions to our country. However, I will point out that all of O'Malley's numbers include legal immigrants as well as illegal immigrants, which is a bit disingenuous. He does touch on some arguments about enforcing federal immigration law, including a new argument around the prison-industrial complex, but not in enough depth to warrant more discussion. 
 
 ## Questions
 
 **Q: What would you say is a healthy level of immigration?**
-> **A:** The levels we saw in 1925, placing new immigrants at around 13% of our total population. 
+> **A:** The levels we saw in 1925, which would place new immigrants at around 13% of our total population. 
 
 **Q: How do you reconcile protecting new immigrant communities with your zero tolerance policing and their harmful effects on such communities?**  
 > **A:** I pushed to gain the public's trust of immigrant communities using public safety gains. I enacted policies to address open-air drug dealing and people saw the difference. I was re-elected with 88% of the vote. 
@@ -139,7 +139,7 @@ This is a very subjective area to debate. In my totally unbiased opinion, I agre
 
 ## Concluding Thoughts
 
-O'Malley's arguments seemed reasonable and well-cited. However, his arguments and evidence tended to defend Dreamers and the benefits that immigrants bring. He spoke little on sanctuary cities, federalism, civil disobedience, and constitutional authority. His rhetoric doesn't perfectly match his record as governor (particularly on preventing deportations), but he seems genuinely committed to certain policy priorities, such as securing a path to citizenship. 
+O'Malley's arguments seemed reasonable and well-cited. However, his arguments and evidence tended to focus specifically on Dreamers and the benefits that immigrants bring. He spoke little on sanctuary cities, federalism, civil disobedience, and constitutional authority. His rhetoric doesn't perfectly match his record as governor (particularly on preventing deportations), but he seems genuinely committed to certain policy priorities, such as securing a path to citizenship. 
 
 All in all, I'm convinced that immigration reform deserves all the attention that it's been getting. I have a better handle on how DACA, ICE enforcement, and deportation policies all fit together, and I'm interested in seeing how the public conversation continues to evolve around these issues. 
 
