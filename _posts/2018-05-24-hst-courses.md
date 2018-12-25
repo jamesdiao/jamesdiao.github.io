@@ -28,7 +28,7 @@ Although I haven't actually taken many classes at HMS yet, the fixed course sche
 <td align="left"><small><a href="/PDF/Syllabi/HST030.pdf">HST 030 </a> <br>Human Pathology</small></td>
 <td align="left"><small><a href="/PDF/Syllabi/HST146.pdf">HST 146 </a> Biochemistry & Metabolism</small></td>
 <td align="left"><small><a href="/PDF/Syllabi/HST160.pdf">HST 160 </a> <br>Medical Genetics</small></td>
-<td align="left"><small>HST 162 Molecular Diagnostics & Bioinformatics</small></td>
+<td align="left"><small><a href="/PDF/Syllabi/HST162.pdf">HST 162 </a> Molecular Diagnostics & Bioinformatics</small></td>
 <td align="left"><small><a href="/PDF/Syllabi/HST175.pdf">HST 175 </a> Cellular & Molecular Immunology</small></td>
 </tr>
 <tr class="odd">
@@ -37,7 +37,7 @@ Although I haven't actually taken many classes at HMS yet, the fixed course sche
 <td align="left"><small>PWY 110 Essentials of the Profession</small></td>
 <td align="left"><small>HST 164 Biomedical Imaging</small></td>
 <td align="left"><small>HST 020 Musculoskeletal Pathophysiology</small></td>
-<td align="left" colspan="2"><small>HST 192 <br>Medical Decision Analysis & Probabilistic Medical Inference</small></td>
+<td align="left" colspan="2"><small></small></td>
 <td align="left"><small></small></td>
 </tr>
 <tr class="even">
