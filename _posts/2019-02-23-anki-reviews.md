@@ -14,7 +14,7 @@ I built an app to model how much work it takes for a medical student to keep up 
 
 Just as a quick intro, Anki is a flashcard app, much like Quizlet- you can make your own cards or download shared decks. The core premise of Anki is the spaced repetition system, which reschedules the next time you see a card based on how many times you've successfully answered it in a row. This system requires a fairly high amount of sustained effort to keep up with reviews, and many students aiming to try out Anki are worried about whether they'll be able to keep up with it.
 
-To help people better understand what they're signing up for, or figure out how intense they want to schedule new cards, I've built an app to model how many cards you'll have to review per day. 
+To help people better understand what they're signing up for, or to figure out how aggressively they should schedule new cards to finish on time, I've built an app to model how many cards you'll have to review per day, based on a couple basic parameters. 
  
 > [https://jamesdiao.shinyapps.io/ankireviews](https://jamesdiao.shinyapps.io/ankireviews/)
 
