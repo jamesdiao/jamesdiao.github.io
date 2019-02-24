@@ -29,7 +29,7 @@ Review counts are computed by forward propagating the expected future reviews ge
     <source src="/vid/ankireviews.ogg" type="video/ogg" /><
 </video>
 
-To avoid multiple embedded loops, the program only allows a maximum of 2 possible forgetten reviews. Because this constraint underestimates the true number of reviews, each added review count is scaled up by the expected difference. This shortcut greatly decreases the computational cost, but results in some shape distortions away from key points (peak and stable state). A more accurate (but slower and less visual) simulator can be accessed here: [https://repl.it/repls/GlassBiodegradableTriggers](https://repl.it/repls/GlassBiodegradableTriggers). 
+To avoid multiple embedded loops, the program only allows a maximum of 2 possible forgetten reviews. Because this constraint underestimates the true number of reviews, each added review count is then scaled up by the expected difference. This estimate shortcut greatly decreases the computational cost, but results in some shape distortions away from key points (peak and stable state). Another approach is direct simulation, which is significantly slower, but can be more accurate. One such approach can be accessed here: [https://repl.it/repls/GlassBiodegradableTriggers](https://repl.it/repls/GlassBiodegradableTriggers). 
 
 ### Validation
 
@@ -38,8 +38,8 @@ Clockwise from top-left:
 
 1. **LARGE DECK**: approximate parameters for Zanki, the most popular Step 1 deck.  
 2. **SMALL DECK**: approximate parameters for a single Zanki subject deck (e.g., cardiology).  
-3. **HIGH FORGET RATE**: worsening concordance (up to 30% difference) between computed expectation and direct simulation due to error propagation.  
-4. **ZERO FORGET RATE**: almost 100% concordance (including the isolated spike around day 170) between computed expectation and direct simulation. 
+3. **HIGH FORGET RATE**: worsening concordance (up to 25% difference) between computed expectation and direct simulation due to error propagation.  
+4. **ZERO FORGET RATE**: essentially 100% concordance (including the isolated spike around day 170) between computed expectation and direct simulation. 
 
 <img src="/img/ankivalidation1.png" alt="Anki Validation 1" title="Anki Validation 1" style="width:315px;height:255px;">
 <img src="/img/ankivalidation2.png" alt="Anki Validation 2" title="Anki Validation 2" style="width:385px;height:255px;">
@@ -50,6 +50,6 @@ Clockwise from top-left:
 All code is available on Github: [https://github.com/jamesdiao/Anki-Reviews](https://github.com/jamesdiao/Anki-Reviews)
 
 ### Improvement Areas
-Allowing no more than 2 errors may be too strong a constraint- shape deviations become noticable with an error rate >15% error, and significant at >20%. The program is currently fast enough (elapsed time on the order of 1-10 ms) that adding another embedded loop may improve model accuracy with little noticable lag. Currently, accuracy is good enough that I'm not too worried about fixing this. 
+Allowing no more than 2 errors may be too strong a constraint- shape deviations become noticable with an error rate >15% error, and significant at >20%. The program is currently fast enough (elapsed time on the order of 0.01-0.10 s) that adding another embedded loop may improve model accuracy with little noticable lag. Currently, accuracy is good enough that I'm not too worried about fixing this. 
 
 
