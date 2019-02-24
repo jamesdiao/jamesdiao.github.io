@@ -12,13 +12,16 @@ I built an app to model how much work it takes for a medical student to keep up 
 
 ### Anki as a study tool
 
-Just as a quick intro, Anki is a flashcard app, much like Quizlet- you can make your own cards or download shared decks. The core premise of Anki is the spaced repetition system, which reschedules the next time you see a card based on how many times you've successfully answered it in a row. This system requires a fairly high amount of sustained effort to keep up with reviews, and many students aiming to try out Anki are worried about whether they'll be able to keep up with it.
+Just as a quick intro: Anki is a flashcard app, much like Quizlet. You learn by testing yourself on flashcards; you can either make them yourself or download shared decks from online (see my post on [Anki for Medical School](/archives/2019/02/11/anki) for more info). 
+
+The core premise of Anki is the spaced repetition system, which schedules the next time you see a card based on how well you know the material. The interval increases every time you get it right (1 day, 3 days, 7 days, etc.) by about 2.5x, but the interval resets if you get it wrong. As you might expect, this system requires a fairly high amount of sustained effort to keep up with reviews. 
 
 To help people better understand what they're signing up for, or to figure out how aggressively they should schedule new cards to finish on time, I've built an app to model how many cards you'll have to review per day, based on a couple basic parameters. 
  
 > [https://jamesdiao.shinyapps.io/ankireviews](https://jamesdiao.shinyapps.io/ankireviews/)
 
-**Methodology**: Review counts are computed by forward propagating the expected future reviews generated on each day. Here's a video demonstrating this generation process (slowed down 200x; might not work in Chrome): 
+### Methodology
+Review counts are computed by forward propagating the expected future reviews generated on each day. Here's a video demonstrating this generation process (slowed down 200x; might not work in Chrome): 
 
 <video width="700" height="400" controls preload="none">
     <source src="/vid/ankireviews.mp4" type="video/mp4" />
@@ -28,7 +31,10 @@ To help people better understand what they're signing up for, or to figure out h
 
 To avoid multiple embedded loops, the program only allows a maximum of 2 possible forgetten reviews. Because this constraint underestimates the true number of reviews, each added review count is scaled up by the expected difference. This shortcut greatly decreases the computational cost, but results in some shape distortions away from key points (peak and stable state). A more accurate (but slower and less visual) simulator can be accessed here: [https://repl.it/repls/GlassBiodegradableTriggers](https://repl.it/repls/GlassBiodegradableTriggers). 
 
-**Validation**: Comparison to the direct simulator (referenced above) yields very similar results. Clockwise from top-left:
+### Validation
+
+Comparison with the direct simulator (referenced above) yielded similar results.  
+Clockwise from top-left:
 
 1. **LARGE DECK**: approximate parameters for Zanki, the most popular Step 1 deck.  
 2. **SMALL DECK**: approximate parameters for a single Zanki subject deck (e.g., cardiology).  
@@ -40,9 +46,10 @@ To avoid multiple embedded loops, the program only allows a maximum of 2 possibl
 <img src="/img/ankivalidation3.png" alt="Anki Validation 3" title="Anki Validation 3" style="width:315px;height:255px;">
 <img src="/img/ankivalidation4.png" alt="Anki Validation 4" title="Anki Validation 4" style="width:385px;height:255px;">
 
-**Source Code**
+### Source Code
 All code is available on Github: [https://github.com/jamesdiao/Anki-Reviews](https://github.com/jamesdiao/Anki-Reviews)
 
-**Potential Improvements**: Allowing no more than 2 errors may be too strong a constraint- shape deviations become noticable with an error rate >15% error, and significant at >20%. The program is currently fast enough (elapsed time on the order of 1-10 ms) that adding another embedded loop may improve model accuracy with little noticable lag. Currently, accuracy is good enough that I'm not too worried about fixing this. 
+### Improvement Areas
+Allowing no more than 2 errors may be too strong a constraint- shape deviations become noticable with an error rate >15% error, and significant at >20%. The program is currently fast enough (elapsed time on the order of 1-10 ms) that adding another embedded loop may improve model accuracy with little noticable lag. Currently, accuracy is good enough that I'm not too worried about fixing this. 
 
 
