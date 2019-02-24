@@ -35,8 +35,8 @@ Although I haven't actually taken many classes at HMS yet, the fixed course sche
 <td align="left"></td>
 <td align="left">Winter</td>
 <td align="left"><small>PWY 110 Essentials of the Profession</small></td>
-<td align="left"><small>HST 164 Biomedical Imaging</small></td>
-<td align="left"><small>HST 020 Musculoskeletal Pathophysiology</small></td>
+<td align="left"><small><a href="/PDF/Syllabi/HST164.pdf">HST 164 </a>Biomedical Imaging</small></td>
+<td align="left"><small><a href="/PDF/Syllabi/HST020.pdf">HST 020 </a>Musculoskeletal Pathophysiology</small></td>
 <td align="left" colspan="2"><small></small></td>
 <td align="left"><small></small></td>
 </tr>
