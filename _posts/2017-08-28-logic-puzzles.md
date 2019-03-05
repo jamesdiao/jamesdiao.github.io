@@ -4,6 +4,7 @@ title: "Logic Puzzles"
 date: 2017-08-28
 author: James Diao
 location: New Haven, CT
+categories: Miscellaneous
 excerpt: A compilation of some of my logic puzzles across all areas; none requires math
 ---
 

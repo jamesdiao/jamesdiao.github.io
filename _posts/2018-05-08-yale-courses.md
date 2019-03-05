@@ -4,6 +4,7 @@ title: "Coursework at Yale"
 date: 2018-05-08
 author: James Diao
 location: New Haven, CT
+categories: Class
 excerpt: Scheduling and syllabus info from my past four years
 images:
   - url: /img/0-yale-courses.png

@@ -4,6 +4,7 @@ title: "Summer Research Options"
 date: 2017-10-17
 author: James Diao
 location: New Haven, CT
+categories: Research
 excerpt: Internship opportunities for summer research
 ---
 

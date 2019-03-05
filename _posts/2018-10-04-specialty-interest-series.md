@@ -4,6 +4,7 @@ title: "HMS Specialty Interest Series"
 date: 2018-10-04
 author: James Diao
 location: Boston, MA
+categories: [Medical_School]
 excerpt: Notes from a biweekly seminar series that discusses different specialty areas. 
 images:
   - url: /img/0-specialty-interest-series.png

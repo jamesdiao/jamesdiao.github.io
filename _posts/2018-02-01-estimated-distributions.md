@@ -4,6 +4,7 @@ title: "Estimated Distributions"
 author: James Diao
 date: 2018-02-01
 location: New Haven, CT
+categories: Projects
 excerpt: Estimated distributions by quantile-optimized parameters
 images:
   - url: /img/0-estimated-distributions.png

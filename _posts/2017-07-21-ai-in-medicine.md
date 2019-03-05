@@ -4,6 +4,7 @@ title: "Discussion: AI in Medicine"
 date: 2017-07-21
 author: James Diao
 location: Boston, MA
+categories: Events
 excerpt: Summary of the departmental discussion at Harvard Biomedical Informatics
 ---
 

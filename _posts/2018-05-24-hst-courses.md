@@ -4,6 +4,7 @@ title: "Coursework at Harvard-MIT"
 date: 2018-05-24
 author: James Diao
 location: Boston, MA
+categories: [Medical_School, Class]
 excerpt: Scheduling and syllabus outline for my next four years
 images:
   - url: /img/0-hst-courses.png

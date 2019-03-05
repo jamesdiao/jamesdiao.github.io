@@ -4,6 +4,7 @@ title: "Bioinformatics with Gerstein Lab"
 date: 2017-08-23
 author: James Diao
 location: New Haven, CT
+categories: Research
 excerpt: I built tools to visualize, deconvolute, and classify exRNA-Seq samples
 images:
   - url: /img/0-gerstein-lab.png

@@ -4,6 +4,7 @@ title: "Why Most Published Research Findings Are False"
 author: James Diao
 date: 2018-02-26
 location: New Haven, CT
+categories: Research
 excerpt: Discussion and derivation of Ioannidis' theoretical framework
 images:
   - url: /img/confusion_matrix_1.png

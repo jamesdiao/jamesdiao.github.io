@@ -4,6 +4,7 @@ title: "Probability Problems"
 date: 2017-08-28
 author: James Diao
 location: New Haven, CT
+categories: Miscellaneous
 excerpt: A compilation of my favorite problems in probability and statistics
 ---
 
