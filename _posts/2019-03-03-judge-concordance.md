@@ -1,13 +1,17 @@
 ---
 layout: post
-title: "Judging Concordance in Competitive Ballroom"
+title: "Judging Concordance in Competitive Ballroom Dance"
 author: James Diao
 date: 2019-03-03
 location: Cambridge, MA
+excerpt: Judging at dance competitions is subjective but thankfully much better than random
+images:
+  - url: /img/o2cm_ex2.png
 ---
 
+
 ### tl;dr 
-Judging in ballroom dance is subjective but significantly more concordant than random ranking. 
+Judges are subjective but significantly more concordant than random rankings. 
 
 ### Collegiate Ballroom Dance
 A ballroom dance takes place with a number of couples (usually too many for the given floor size) assembled on a dance floor. Around 3-7 judges stand around the periphery and compare all the couples and issue a set number of callbacks (i.e., voting for whom they want to see in the next round). In the very last round, judges will rank all *N* couples from 1 to *N*. The specific rules come from the [Skating System of Judging](http://www.ballroomguide.com/resources/blog/2017_11_01_skating_system.html), which has many more rules for breaking ties. Other than that, judging is a fairly simple process. All results are recorded in a (pretty poorly designed) system called o2cm.

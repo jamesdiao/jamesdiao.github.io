@@ -4,6 +4,7 @@ title: "Logic Puzzles"
 date: 2017-08-28
 author: James Diao
 location: New Haven, CT
+excerpt: A compilation of some of my logic puzzles across all areas; none requires math
 ---
 
 I really enjoy logic puzzles, and I thought I'd compile a list of my favorites before I forget them all. Solutions range from recursion to binary encoding; none requires math. When you're ready, click on the title for an answer and explanation. (If you liked these, check out <a href="/archives/2017/08/28/probability-problems">my probability problems</a>!)

@@ -4,6 +4,9 @@ title: "Effective Altruism"
 author: James Diao
 date: 2018-02-07
 location: New Haven, CT
+excerpt: Notes on readings and discussions through the Yale EA Fellowship
+images:
+  - url: /img/0-effective-altriusm.png
 ---
 
 

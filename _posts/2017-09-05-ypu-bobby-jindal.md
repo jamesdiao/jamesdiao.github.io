@@ -4,6 +4,9 @@ title: "Resolved: Reject Single-Payer Healthcare (Bobby Jindal)"
 date: 2017-09-05
 author: James Diao
 location: New Haven, CT
+excerpt: Bobby Jindal on single-payer healthcare
+images:
+  - url: /img/0-ypu-bobby-jindal.png
 ---
 
 <style>

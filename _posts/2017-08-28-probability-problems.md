@@ -4,6 +4,7 @@ title: "Probability Problems"
 date: 2017-08-28
 author: James Diao
 location: New Haven, CT
+excerpt: A compilation of my favorite problems in probability and statistics
 ---
 
 This is a compilation of some of my favorite problems from probability and statistics. Some can be done with a bit of intuition, but most require math. When you're ready, click on the title for an answer and explanation. (If you liked these, check out <a href="/archives/2017/08/28/logic-puzzles">my logic puzzles</a>!)

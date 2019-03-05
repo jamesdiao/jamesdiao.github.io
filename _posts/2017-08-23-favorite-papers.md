@@ -4,6 +4,8 @@ layout: post
 date: '2017-08-23'
 author: James Diao
 location: New Haven, CT
+excerpt: Favorite Science Papers"
+published: false
 ---
 
 ![In Progress](/img/in-progress.png)

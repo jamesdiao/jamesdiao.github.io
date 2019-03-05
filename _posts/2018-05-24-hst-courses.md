@@ -4,6 +4,9 @@ title: "Coursework at Harvard-MIT"
 date: 2018-05-24
 author: James Diao
 location: Boston, MA
+excerpt: Scheduling and syllabus outline for my next four years
+images:
+  - url: /img/0-hst-courses.png
 ---
 
 Although I haven't actually taken many classes at HMS yet, the fixed course schedule of medical school means I have a pretty good idea what to expect. There's less diversity than in undergrad, but I'm very excited to focus in on medicine. I'm especially excited about some of HST's unique science/engineering offerings, such as medical imaging and informatics. 
@@ -34,7 +37,7 @@ Although I haven't actually taken many classes at HMS yet, the fixed course sche
 <tr class="odd">
 <td align="left"></td>
 <td align="left">Winter</td>
-<td align="left"><small>PWY 110 Essentials of the Profession</small></td>
+<td align="left"><small><a href="/PDF/Syllabi/PWY110.pdf">PWY 110 </a>Essentials of the Profession</small></td>
 <td align="left"><small><a href="/PDF/Syllabi/HST164.pdf">HST 164 </a>Biomedical Imaging</small></td>
 <td align="left"><small><a href="/PDF/Syllabi/HST020.pdf">HST 020 </a>Musculoskeletal Pathophysiology</small></td>
 <td align="left" colspan="2"><small></small></td>
@@ -43,12 +46,12 @@ Although I haven't actually taken many classes at HMS yet, the fixed course sche
 <tr class="even">
 <td align="left"></td>
 <td align="left">Spring</td>
-<td align="left"><small>HST 220 <br>Intro to Care of Patients</small></td>
-<td align="left"><small>HST 060 Endocrinology</small></td>
-<td align="left"><small>HST 080 Hematology</small></td>
-<td align="left"><small>HST 090 Cardiovascular Pathophysiology</small></td>
-<td align="left"><small>HST 100 Respiratory Pathophysiology</small></td>
-<td align="left"><small>HST 110 <br>Renal Pathophysiology</small></td>
+<td align="left"><small><a href="/PDF/Syllabi/IN590.pdf">IN 590</a> <br>Healthcare Management</small></td>
+<td align="left"><small><a href="/PDF/Syllabi/HST060.pdf">HST 060</a> Endocrinology</small></td>
+<td align="left"><small><a href="/PDF/Syllabi/HST080.pdf">HST 080</a> Hematology</small></td>
+<td align="left"><small><a href="/PDF/Syllabi/HST090.pdf">HST 090</a> Cardiovascular Pathophysiology</small></td>
+<td align="left"><small><a href="/PDF/Syllabi/HST100.pdf">HST 100</a> Respiratory Pathophysiology</small></td>
+<td align="left"><small><a href="/PDF/Syllabi/HST110.pdf">HST 110</a> <br>Renal Pathophysiology</small></td>
 </tr>
 <tr class="odd">
 <td align="left"><b>M2</b></td>

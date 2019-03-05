@@ -4,6 +4,7 @@ title: "Summer Research Options"
 date: 2017-10-17
 author: James Diao
 location: New Haven, CT
+excerpt: Internship opportunities for summer research
 ---
 
 Some of the research options I considered applying to for the summer after my sophomore year (before I was fully committed to computational work). 

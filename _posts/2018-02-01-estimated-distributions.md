@@ -4,6 +4,9 @@ title: "Estimated Distributions"
 author: James Diao
 date: 2018-02-01
 location: New Haven, CT
+excerpt: Estimated distributions by quantile-optimized parameters
+images:
+  - url: /img/0-estimated-distributions.png
 ---
 
 Often, my parents or friends will ask me to estimate my beliefs about a probability or a time. For example, they might ask how likely I am to go to an event, or maybe how much longer it will take me to get there. It's easy to take a guess, but it says nothing about my own uncertainty in this guess. As a result, I made a simple app to turn point estimates into probability distributions. It does this by taking point and range values (best, minimum, and maximum) and fitting them to an appropriate family of distributions. I don't actually use this practically of course, but it was fun to implement and play around with.  

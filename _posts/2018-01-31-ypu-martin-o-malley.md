@@ -4,6 +4,9 @@ title: "Resolved: Support Sanctuary Cities (Martin O'Malley)"
 date: 2018-02-06
 author: James Diao
 location: New Haven, CT
+excerpt: Former Maryland Governer Martin O'Malley on American immigration policy
+images:
+  - url: /img/0-ypu-martin-o-malley.png
 ---
 
 <style>
