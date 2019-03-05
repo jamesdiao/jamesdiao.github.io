@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ballroom Judge Concordance"
+title: "Judging Concordance in Competitive Ballroom"
 author: James Diao
 date: 2019-03-03
 location: Cambridge, MA
@@ -10,22 +10,22 @@ location: Cambridge, MA
 Judging in ballroom dance is subjective but significantly more concordant than random ranking. 
 
 ### Collegiate Ballroom Dance
-A ballroom dance takes place with a number of couples (usually too many for the given floor size) assembled on a dance floor. Around 3-7 judges stand around the periphery and compare all the couples and issue a set number of callbacks (i.e., voting for whom they want to see in the next round). In the very last round, judges will rank all $N$ couples from $1-N$, with no ties. The actual rules come from the [Skating System of Judging](http://www.ballroomguide.com/resources/blog/2017_11_01_skating_system.html), which has many more rules for breaking ties, but other than that, it's fairly simple. All results are recorded in a (pretty poorly designed) system called o2cm.
+A ballroom dance takes place with a number of couples (usually too many for the given floor size) assembled on a dance floor. Around 3-7 judges stand around the periphery and compare all the couples and issue a set number of callbacks (i.e., voting for whom they want to see in the next round). In the very last round, judges will rank all *N* couples from 1 to *N*. The specific rules come from the [Skating System of Judging](http://www.ballroomguide.com/resources/blog/2017_11_01_skating_system.html), which has many more rules for breaking ties. Other than that, judging is a fairly simple process. All results are recorded in a (pretty poorly designed) system called o2cm.
 
 
 #### Example final round (full rankings)  
-7 judges each rank all 8 competitors; a scoring system is then used to determine final placements
+*7 judges have each ranked all 8 competitors*
 <img src="/img/o2cm_ex2.png" alt="O2CM Example 1" title="O2CM Example 1" style="width:700px;height:316px;">
 
 
 #### Example semifinal round (callbacks)
-5 judges each vote for their favorite 8 competitors; the top 8 advance to the final
+*5 judges have each voted for their favorite 8 competitors (X); the top 8 advance to the final*
 
 <img src="/img/o2cm_ex1.png" alt="O2CM Example 2-1" title="O2CM Example 2-1" style="width:500px;height:218px;">
 
 
 ### Judge Concordance
-It's easy after a competition to pore over one's callback numbers and final rankings and get caught up in which dances need the most work, or why some events went well and others didn't. My coach was skeptical of the reliability of these conclusions, saying that there was probably a lot of noise from different judge preferences, moods, or levels of paying attention. To test this hypothesis, I decided to look at the data. 
+It's easy after a competition to pore over one's callback numbers and final rankings and get caught up in which dances need the most work, or why some events went well and others didn't. My coach was skeptical of the reliability of these conclusions, saying that there was probably a lot of noise from different judge preferences, moods, or levels of paying attention. To test this hypothesis, I decided to take a look at the data. 
 
 ### The Data
 I used the package `scrapeR` to extract tables from the finals round of [all 239 events I've participated in](
