@@ -11,7 +11,7 @@ images:
 ---
 
 
-Over the past four years in the <a href="/archives/2017/08/23/gerstein-lab">Gerstein Lab</a>, I've poured a lot of time into two main projects under the NIH Extracellular RNA Communications Consortium. One of the main groups involved in this effort, the International Society for Extracellular Vesicles, just held their annual meeting in May. In the months before, we briefly wrote up both projects and my mentor traveled to Barcelona to present them. Just before the meeting, I was excited to see that the [two abstracts](https://www.tandfonline.com/doi/full/10.1080/20013078.2018.1461450) were published in *the Journal of Extracellular Vesicles*. Both are currently being drafted as full-length manuscripts; fingers crossed that they go through smoothly!   
+Over the past four years in the <a href="/research/gerstein-lab">Gerstein Lab</a>, I've poured a lot of time into two main projects under the NIH Extracellular RNA Communications Consortium. One of the main groups involved in this effort, the International Society for Extracellular Vesicles, just held their annual meeting in May. In the months before, we briefly wrote up both projects and my mentor traveled to Barcelona to present them. Just before the meeting, I was excited to see that the [two abstracts](https://www.tandfonline.com/doi/full/10.1080/20013078.2018.1461450) were published in *the Journal of Extracellular Vesicles*. Both are currently being drafted as full-length manuscripts; fingers crossed that they go through smoothly!   
 
 
 <br>

@@ -8,7 +8,7 @@ categories: Miscellaneous
 excerpt: A compilation of some of my logic puzzles across all areas; none requires math
 ---
 
-I really enjoy logic puzzles, and I thought I'd compile a list of my favorites before I forget them all. Solutions range from recursion to binary encoding; none requires math. When you're ready, click on the title for an answer and explanation. (If you liked these, check out <a href="/archives/2017/08/28/probability-problems">my probability problems</a>!)
+I really enjoy logic puzzles, and I thought I'd compile a list of my favorites before I forget them all. Solutions range from recursion to binary encoding; none requires math. When you're ready, click on the title for an answer and explanation. (If you liked these, check out <a href="/miscellaneous/probability-problems">my probability problems</a>!)
 
 ### Contents
 
@@ -54,7 +54,7 @@ I really enjoy logic puzzles, and I thought I'd compile a list of my favorites b
 > Both A and B are constructed from the same shapes, but B is magically missing a square. Where did it go?  
 ![Missing Square](/img/missing-square.png)
 
-5. [Coins in a Line](https://articles.leetcode.com/coins-in-line/)<a name="CoinsInLine"></a>
+5. [Coins in a Line](http://webcache.googleusercontent.com/search?q=cache:Z7msrbkjJcoJ:articles.leetcode.com/coins-in-line/)<a name="CoinsInLine"></a>
 > There are an even number of coins in a line, and each coin has a positive integer value. The total amount of money on the table is odd. We play a game: I take a coin from either end of the line, and then you take a coin from either end of the remaining line, and we continue taking turns until all the coins are gone. Whomever has more money at the end wins. What strategy can guarantee that the first player will always win? Is this strategy optimal (e.g., does it always maximize your earnings)?
 
 <br>

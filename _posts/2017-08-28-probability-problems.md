@@ -8,7 +8,7 @@ categories: Miscellaneous
 excerpt: A compilation of my favorite problems in probability and statistics
 ---
 
-This is a compilation of some of my favorite problems from probability and statistics. Some can be done with a bit of intuition, but most require math. When you're ready, click on the title for an answer and explanation. (If you liked these, check out <a href="/archives/2017/08/28/logic-puzzles">my logic puzzles</a>!)
+This is a compilation of some of my favorite problems from probability and statistics. Some can be done with a bit of intuition, but most require math. When you're ready, click on the title for an answer and explanation. (If you liked these, check out <a href="/miscellaneous/logic-puzzles">my logic puzzles</a>!)
 
 ### Contents
 
@@ -41,8 +41,8 @@ This is a compilation of some of my favorite problems from probability and stati
 <br>
 
 ### Medium
-1. [Bus Wait Time](http://estebanmoro.org/2009/01/waiting-for-the-bus/)<a name="BusWaitTime"></a>  
-> Buses arrive at the bus stop every 15 minutes on the dot. You arrive to the stop at a random time (uniformly distributed). How long should you expect to wait until the next bus shows up? What if the time is Poisson-distributed with a mean wait time of 15 minutes? Bonus: What if it the time has an arbitrary distribution, the mean wait time is still 15 minutes, and the variance is known? (needs math)
+1. [Bus Wait Time](https://jakevdp.github.io/blog/2018/09/13/waiting-time-paradox/)<a name="BusWaitTime"></a>  
+> Buses arrive at the bus stop every 15 minutes on the dot. You arrive to the stop at a random time (uniformly distributed). How long should you expect to wait until the next bus shows up? What if the time is Poisson-distributed with a mean wait time of 15 minutes? 
 
 2. [Amoebas Revisited](https://stats.stackexchange.com/questions/4768/amoeba-interview-question)<a name="AmoebasRevisited"></a>
 > You place a single amoeba into a jar with infinite space and nutrients. After 3 minutes, that amoeba will either die, persist, or divide with equal probability. In other words, it is equally likely to be replaced by 0, 1, or 2 amoeba in the next generation. What is the probability that the entire population eventually dies out? Bonus: what if it can also divide into 3 offspring? (needs math)

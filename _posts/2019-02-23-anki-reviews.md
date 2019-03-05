@@ -16,7 +16,7 @@ I built an app to model how much work it takes for a medical student to keep up 
 
 ### Anki as a study tool
 
-Just as a quick intro: Anki is a flashcard app, much like Quizlet. You learn by testing yourself on flashcards; you can either make them yourself or download shared decks from online (see my post on [Anki for Medical School](/archives/2019/02/11/anki) for more info). 
+Just as a quick intro: Anki is a flashcard app, much like Quizlet. You learn by testing yourself on flashcards; you can either make them yourself or download shared decks from online (see my post on [Anki for Medical School](/medical_school/anki) for more info). 
 
 The core premise of Anki is the spaced repetition system, which schedules the next time you see a card based on how well you know the material. The interval increases every time you get it right (1 day, 3 days, 7 days, etc.) by about 2.5x, but the interval resets if you get it wrong. As you might expect, this system requires a fairly high amount of sustained effort to keep up with reviews. 
 

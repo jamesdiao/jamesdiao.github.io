@@ -24,7 +24,7 @@ img {
 ## tl;dr
 Former Maryland Governer Martin O'Malley gave a great speech on American immigration policy. I learned a lot about the underlying political theory, as well as some common misconceptions and false equivalences.  
 
-This was my second time attending a Yale Political Union (YPU) debate. For more background on the YPU and their debate events, check out my [last post](/archives/2017/09/05/ypu-bobby-jindal) on Bobby Jindal's talk. 
+This was my second time attending a Yale Political Union (YPU) debate. For more background on the YPU and their debate events, check out my [last post](/events/ypu-bobby-jindal) on Bobby Jindal's talk. 
 
 ## Introduction
 
