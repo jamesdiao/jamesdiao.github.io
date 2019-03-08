@@ -12,7 +12,7 @@ images:
 
 
 ### tl;dr 
-Judges are subjective but significantly more concordant than random rankings. 
+I scraped competitive results from a few hundred ballroom dance events to estimate the distribution of concordance rates between judges. As expected, judging is quite subjective but significantly better than random. 
 
 ### Collegiate Ballroom Dance
 A ballroom dance takes place with a number of couples (usually too many for the given floor size) assembled on a dance floor. Around 3-7 judges stand around the periphery and compare all the couples and issue a set number of callbacks (i.e., voting for whom they want to see in the next round). In the very last round, judges will rank all *N* couples from 1 to *N*. The specific rules come from the [Skating System of Judging](http://www.ballroomguide.com/resources/blog/2017_11_01_skating_system.html), which has many more rules for breaking ties. Other than that, judging is a fairly simple process. All results are recorded in a (pretty poorly designed) system called o2cm.
@@ -289,6 +289,8 @@ The F-test shows a significant difference in the means across levels, and a nons
 
 ### Conclusion
 
-While my coach was probably just trying to keep me from overthinking each result, it's pretty clear that judging (at least for finals rounds) is significantly better than random. That being said, it's not wildly better; 20-30% of all finals rounds are discordant enough that they are not statistically different from random. There may be some value to poring over judging results for rounds that are particularly concordant (e.g., everyone ranked you last). But for most rounds, the data confirms what we pretty much already knew: judging results have value, but are certainly not reliable enough to stress over. 
+While my coach was probably just trying to keep me from overthinking each result, it's pretty clear that judging (at least for finals rounds) is significantly better than random. That being said, it's not wildly better; 20-30% of all finals rounds are discordant enough that they are not statistically different from random. 
+
+There are some caveats here. First, I only looked at events that I compete in; this might not generalize to higher levels of competition (e.g., Pre-Champ and Championship). Second, there may still be value in poring over judging results for rounds that are particularly concordant (e.g., everyone ranked you last). But for most rounds, the data confirms what we pretty much already knew: judging results have value, but are certainly not reliable enough to stress over. 
 
 

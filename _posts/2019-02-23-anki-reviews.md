@@ -12,7 +12,7 @@ images:
 
 
 ### tl;dr 
-I built an app to model how much work it takes for a medical student to keep up with a popular flashcard study schedule. 
+I built an app to model how much work it takes for a medical student to keep up with a popular flashcard study schedule: [https://jamesdiao.shinyapps.io/ankireviews](https://jamesdiao.shinyapps.io/ankireviews/)
 
 ### Anki as a study tool
 
