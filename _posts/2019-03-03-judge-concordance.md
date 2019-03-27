@@ -225,15 +225,15 @@ To estimate the distribution of concordance values, I computed Kendall's W using
 
 ### Hypothesis Testing
 
-The two curves are clearly distinct, suggesting that judges probably do better than random. However, there's some overlap that indicates that some rounds end up being pretty indistinguishable from random. 
+The two curves are obviously quite different, suggesting that judges almost certainly do better than random. However, there's some overlap that indicates that at least some rounds end up being pretty indistinguishable from random. 
 
-Since we've explicitly modeled the null distribution here, we can compute the p-value as the fraction of observed cases greater than the 95th quantile of the null distribution (in this case, 0.283). Using this method, we find that **78.7%** of finals rounds have judge concordances that are better than random. 
+Since we've explicitly modeled the null distribution here, we can compute the p-value as the fraction of observed cases greater than the 95th quantile of the null distribution (in this case, 0.283). Using this method, we find that **78.7%** of finals rounds have judge concordances that are better than random (at significance level &alpha; = 0.05). 
 
 Just for kicks, we can also compute p-values based on a chi-squared approximation to the distribution of the Friedman test statistic. The p-values for all finals rounds are shown below. 
 
 <img src="/img/o2cm_pv.png" alt="O2CM P-values" title="O2CM P-values" style="width:605px;height:376px;">
 
-This approximation finds that **69.9%** of finals rounds have judge concordances that are better than random (at a significance level of &alpha; = 0.05), which is pretty close the estimate derived from our simulated null distribution. 
+This approximation finds that **69.9%** of finals rounds have judge concordances that are better than random (at significance level &alpha; = 0.05), which is pretty close the estimate derived from our simulated null distribution. 
 
 For the 20-30% of ranked rounds that are indistiguishable from random, we might suspect that this is driven by some lurking variable. The ones that come most readily to mind (and that are most easily accessible from o2cm) are level and dance style. For example, it might be the case that at lower levels, all dancers are making many mistakes and it may hard to distinguish them. It is also possible that the additional styling that happens in Rhythm and Latin dances make it easier to distinguish dancers. I just made up those hypotheses, but let's see what the data has to say. 
 
