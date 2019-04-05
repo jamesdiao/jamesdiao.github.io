@@ -6,6 +6,7 @@ author: James Diao
 location: New Haven, CT
 categories: Research
 excerpt: Internship opportunities for summer research
+published: false
 ---
 
 Some of the research options I considered applying to for the summer after my sophomore year (before I was fully committed to computational work). 
