@@ -10,9 +10,13 @@ images:
   - url: /img/0-anki-reviews.png
 ---
 
+### Update
+
+This load modeling feature has been incorporated as a component of a broader suite of analysis and visualization of Anki data, and the original app has been archived. All links now point to the new app. 
+
 
 ### tl;dr 
-I built an app to model how much work it takes for a medical student to keep up with a popular flashcard study schedule: [https://jamesdiao.shinyapps.io/ankireviews](https://jamesdiao.shinyapps.io/ankireviews/)
+I built an app to model how much work it takes for a medical student to keep up with a popular flashcard study schedule: [https://jamesdiao.shinyapps.io/anki-data](https://jamesdiao.shinyapps.io/anki-data/) (edited link).
 
 ### Anki as a study tool
 
@@ -22,7 +26,7 @@ The core premise of Anki is the spaced repetition system, which schedules the ne
 
 To help people better understand what they're signing up for, or to figure out how aggressively they should schedule new cards to finish on time, I've built an app to model how many cards you'll have to review per day, based on a couple basic parameters. 
  
-> [https://jamesdiao.shinyapps.io/ankireviews](https://jamesdiao.shinyapps.io/ankireviews/)
+> [https://jamesdiao.shinyapps.io/anki-data](https://jamesdiao.shinyapps.io/anki-data/) (see 'Projection Simulator' tab)
 
 ### Methodology
 Review counts are computed by forward propagating the expected future reviews generated on each day. Here's a video demonstrating this generation process (slowed down 200x). Each frame is a snapshot of your review schedule should you decide to stop learning new cards, but want to continue maturing the ones you've already seen. 
@@ -51,7 +55,7 @@ Clockwise from top-left:
 <img src="/img/ankivalidation4.png" alt="Anki Validation 4" title="Anki Validation 4" style="width:385px;height:255px;">
 
 ### Source Code
-All code is available on Github: [https://github.com/jamesdiao/Anki-Reviews](https://github.com/jamesdiao/Anki-Reviews)
+All code is available on Github: [https://github.com/jamesdiao/anki-reviews](https://github.com/jamesdiao/anki-reviews)
 
 ### Improvement Areas
 Allowing no more than 2 errors may be too strong a constraint- shape deviations become noticable with an error rate >15% error, and significant at >20%. The program is currently fast enough (elapsed time on the order of 0.01-0.10 s) that adding another embedded loop may improve model accuracy with little noticable lag. Currently, accuracy is good enough that I'm not too worried about fixing this. 
