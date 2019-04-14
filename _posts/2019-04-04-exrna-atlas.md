@@ -27,9 +27,3 @@ A primary goal for the ERCC was to create a catalog of exRNA molecules found in 
 
 This paper aims to describe the suite of data resources and analysis tools available in the exRNA Atlas, and to demonstrate how they can be used to better understand exRNA sequencing data. To accomplish the second aim, the Atlas resource was used to develop a model for explaining variability between exRNA profiles in terms of the cargo types found in each sample (i.e., which carriers are helping to shuttle the exRNAs around). The hope is that modeling these sources of variation can help us better understand our data, and that correcting for them can improve statistical power and decrease false positives for studies that aim to demonstrate clinical correlations. 
 
-### Reflection
-
-I've already written a bit about my personal experience with these ERCC projects in my post on the [exceRpt paper](/research/excerpt). Still, I think I'd like to expand on this particular project. It taught me a lot about how to develop a tool for a broad user base with diverse backgrounds, how to work closely with long-distance colleagues I've never met, and the enormous value of biological validation in bioinformatics. Hoping to write more about these topics if/when I find some free time! 
-
-
-
