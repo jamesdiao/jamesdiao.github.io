@@ -12,7 +12,7 @@ images:
 
 ### Update
 
-This load modeling feature has been incorporated as a component of a broader suite of analysis and visualization of Anki data, and the original app has been archived. All links now point to the new app. 
+This load modeling feature has been incorporated as a component of a broader suite of analysis and visualization of Anki data, and the original app has been archived. All links now point to the new app, which is described in its [own post](/medical_school/projects/anki-app).
 
 
 ### tl;dr 
