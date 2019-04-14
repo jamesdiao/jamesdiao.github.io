@@ -6,6 +6,8 @@ author: James Diao
 location: Boston, MA
 categories: Events
 excerpt: Summary of the departmental discussion at Harvard Biomedical Informatics
+images:
+  - url: /img/0-ai-discussion.png
 ---
 
 Summary of the "AI in Medicine" discussion at the Department of Biomedical Informatics, Harvard Medical School. 
