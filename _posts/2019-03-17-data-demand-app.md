@@ -4,7 +4,7 @@ title: "The Exploding Data Requirements of Pure Probabilistic Reasoning"
 author: James Diao
 date: 2019-03-17
 location: Boston, MA
-categories: [Medical_School, Projects]
+categories: Projects
 excerpt: Modeling the Bayesian reasoning's "voracious demand for data."
 images:
   - url: /img/0-data-demand.png

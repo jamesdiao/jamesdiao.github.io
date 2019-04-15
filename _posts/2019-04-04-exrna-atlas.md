@@ -27,3 +27,13 @@ A primary goal for the ERCC was to create a catalog of exRNA molecules found in 
 
 This paper aims to describe the suite of data resources and analysis tools available in the exRNA Atlas, and to demonstrate how they can be used to better understand exRNA sequencing data. To accomplish the second aim, the Atlas resource was used to develop a model for explaining variability between exRNA profiles in terms of the cargo types found in each sample (i.e., which carriers are helping to shuttle the exRNAs around). The hope is that modeling these sources of variation can help us better understand our data, and that correcting for them can improve statistical power and decrease false positives for studies that aim to demonstrate clinical correlations. 
 
+### My work
+
+I was involved with the NMF deconvolution portion of the exRNA Atlas project from very early on, starting with mouse exRNA-Seq data, and then trying it on human data. My efforts were different from the approach that was eventually published in 2 ways: I was trying to use tissue-specific data to supervise the deconvolution, and I focused on biofluids instead of cargo types. Although it didn't end up generating interesting results, it meant that I understood the final approach quite well and was able to contribute in other ways. 
+
+My main contribution was the dimensionality reduction and plotting tool. I had done some data visualization work at Harvard, and we had a great opportunity to produce something similar for the exRNA Atlas. Unlike the exceRpt project, which was entirely internal to Gerstein Lab, this project involved working alongside other ERCC labs. After building the beta version on my own, I worked closely with William Thistlethwaite (co-first author) on developing it further. This was a great experience; it taught me how to work closely with long-distance colleagues I've never met, as well as how to develop a tool for a broad user base with diverse technical backgrounds.
+
+### Reflection
+
+The exRNA Atlas resource was such a large project; I'm still amazed that coordination was possible just via conference calls and Google docs. For my next steps, I think I have a lot to learn from completing a smaller project with more ownership. Still, working on the Atlas gave me the chance to be part of something broader than myself, my lab, and my institution, and I'm grateful for that. 
+
