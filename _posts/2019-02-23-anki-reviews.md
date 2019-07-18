@@ -16,7 +16,10 @@ This load modeling feature has been incorporated as a component of a broader sui
 
 
 ### tl;dr 
-I built an app to model how much work it takes for a medical student to keep up with a popular flashcard study schedule: [https://jamesdiao.shinyapps.io/anki-data](https://jamesdiao.shinyapps.io/anki-data/) (edited link).
+I built an app to model how much work it takes for a medical student to keep up with a popular flashcard study schedule:
+
+> [https://jamesdiao.shinyapps.io/anki-data](https://jamesdiao.shinyapps.io/anki-data/) (see "Simulator" tab)
+
 
 ### Anki as a study tool
 
@@ -25,8 +28,6 @@ Just as a quick intro: Anki is a flashcard app, much like Quizlet. You learn by 
 The core premise of Anki is the spaced repetition system, which schedules the next time you see a card based on how well you know the material. The interval increases every time you get it right (1 day, 3 days, 7 days, etc.) by about 2.5x, but the interval resets if you get it wrong. As you might expect, this system requires a fairly high amount of sustained effort to keep up with reviews. 
 
 To help people better understand what they're signing up for, or to figure out how aggressively they should schedule new cards to finish on time, I've built an app to model how many cards you'll have to review per day, based on a couple basic parameters. 
- 
-> [https://jamesdiao.shinyapps.io/anki-data](https://jamesdiao.shinyapps.io/anki-data/) (see 'Projection Simulator' tab)
 
 ### Methodology
 Review counts are computed by forward propagating the expected future reviews generated on each day. Here's a video demonstrating this generation process (slowed down 200x). Each frame is a snapshot of your review schedule should you decide to stop learning new cards, but want to continue maturing the ones you've already seen. 
