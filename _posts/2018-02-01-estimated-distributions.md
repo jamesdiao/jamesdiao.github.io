@@ -14,7 +14,7 @@ Often, my parents or friends will ask me to estimate my beliefs about a probabil
 
 The app is hosted at [https://jamesdiao.shinyapps.io/estimateddistributions/](https://jamesdiao.shinyapps.io/estimateddistributions/) and embedded below (may take 5-10 seconds to load). Simply use the sliders to select an estimated value and range. For time estimates, you can also choose your units and toggle the display format. 
 
-<iframe src="https://jamesdiao.shinyapps.io/estimateddistributions/" style="border: none; width: 850px; height: 660px"></iframe>
+<iframe src="https://jamesdiao.shinyapps.io/estimateddistributions/" class="img-responsive" style="border: none; width: 800px; height: 1240px"></iframe>
 
 **Implementation**: App is built in R Shiny. Parameters were optimized to assigned quantiles by gradient descent using `get.gamma.par()` and `get.beta.par()` from the `rriskDistributions` package. The point estimate is weighted to be twice as important as range estimates. 
 

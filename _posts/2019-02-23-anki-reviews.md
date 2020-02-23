@@ -32,7 +32,7 @@ To help people better understand what they're signing up for, or to figure out h
 ### Methodology
 Review counts are computed by forward propagating the expected future reviews generated on each day. Here's a video demonstrating this generation process (slowed down 200x). Each frame is a snapshot of your review schedule should you decide to stop learning new cards, but want to continue maturing the ones you've already seen. 
 
-<video width="700" height="400" controls preload="none">
+<video class="img-responsive" width="700" height="400" controls preload="none">
     <source src="/vid/ankireviews.mp4" type="video/mp4" />
     <source src="/vid/ankireviews.webm" type="video/webm" />
     <source src="/vid/ankireviews.ogg" type="video/ogg" /><

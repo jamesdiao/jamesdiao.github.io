@@ -33,7 +33,8 @@ Over the past month, immigration has really taken the spotlight. In local news, 
 Immigration reform has always struck me as the kind of topic that is very easy to have opinions on without much background. Not wanting to be one of those people, I decided to read up a bit more on immigration policy and hear from someone who has played an active role in determining immigration policy for years. 
 
 
-<img src="/img/ypu-omalley-self.jpg" alt="O'Malley" style="width: 450; "/>
+<img src="/img/ypu-omalley-self.jpg" alt="O'Malley" class="img-responsive" style="width:450px;height:auto;">  
+
 
 <div class="center">
 Ex-governor Martin O'Malley with me and my friends.  
@@ -86,11 +87,11 @@ With these starting points, O'Malley made three key arguments, which he enumerat
 #### O'Malley's Argument
 Immigrants are more likely to start businesses. In fact, 1st and 2nd generation immigrants have founded [43% of the Fortune 500](https://www.brookings.edu/blog/the-avenue/2017/12/04/almost-half-of-fortune-500-companies-were-founded-by-american-immigrants-or-their-children/), contributing to the employment of over 12 million workers worldwide. 
 
-<img src="/img/ypu-omalley-f500.png" alt="Immigrants and the Fortune 500" style="width: 550px; "/>
+<img src="/img/ypu-omalley-f500.png" alt="Immigrants and the Fortune 500" class="img-responsive" style="width:550px;height:auto;">  
 
 On the whole, higher immigrant diversity have also been shown to be related to higher productivity and wages. There is no evidence that immigrants steal jobs or force down wages. On the contrary: as diversity rose 1 standard deviation in the workplace, [wages rose 1.6%](https://ideas.repec.org/p/cep/sercdp/sercd0175.html); a similar rise in the city as a whole increased wages by by 5.8%. Even low-skill immigrants contribute to this increase. 
 
-<img src="/img/ypu-diversity-wages.png" alt="Diversity and Wages Data" style="width: 550px; "/>
+<img src="/img/ypu-diversity-wages.png" alt="Diversity and Wages Data" class="img-responsive" style="width:550px;height:auto;">  
 
 All told, a health level of immigration is important for U.S. economic prosperity. 
 
@@ -107,12 +108,12 @@ All in all, immigrants are likely to have helped the United States as a whole, b
 #### O'Malley's Argument
 Politicians have stoked a fear of immigrants pouring over the Southern border, but in fact, [net migration with Mexico has been negative since 2007](http://www.pewresearch.org/fact-tank/2017/03/02/what-we-know-about-illegal-immigration-from-mexico/). At the same time, immigrants can strengthen public safety, especially if they are given incentives around obtaining citizenship. DACA recipients, in particular, are 44% less likely to be incarcerated. 
 
-<img src="/img/ypu-mex-mig.png" alt="Net Migration Trends with Mexico" style="width: 280px; "/>
+<img src="/img/ypu-mex-mig.png" alt="Net Migration Trends with Mexico" class="img-responsive" style="width:280px;height:auto;">  
 
 #### My Thoughts
 I already knew about U.S. net migration to Mexico, but had never looked into effects on crime. Try as I might, I could not find any data supporting O'Malley's claim that DACA recipients are 44% less likely to be incarcerated. The closest I found was a [brief by the Cato Institute](https://www.cato.org/publications/immigration-research-policy-brief/dreamer-incarceration-rate) reporting that DACA-eligible immigrants (DREAMers) were 12.5% less likely to be incarcerated than native-born Americans. Startlingly, DACA-ineligible immigrants were 66.1% less likely to be incarcerated, and legal immigrants were 78.6% less likely. The brief notes that DREAMers may have more similar crime rates to natives because they have been better able to acclimate. 
 
-<img src="/img/ypu-omalley-incarc.png" alt="Incarceration Rates of Immigrants" style="width: 550px; "/>
+<img src="/img/ypu-omalley-incarc.png" alt="Incarceration Rates of Immigrants" class="img-responsive" style="width:550px;height:auto;">  
 
 The same brief cites numerous studies arguing that legal and illegal immigrants are less likely to commit crimes or to be incarcerated than their native-born peers. This suggests that immigrants face stronger deterrent effects, or that migration itself has a selection effect. Either way, I think O'Malley's point is fairly solid--immigrants do improve public safety. 
 

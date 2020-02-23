@@ -29,7 +29,8 @@ MathJax.Hub.Queue(function() {
 </script>
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
-<img src="/img/gerstein-exrna-long.jpg" alt="exRNA Image" title="exRNA Image" style="width:680px;height:382px;">  
+<img src="/img/gerstein-exrna-long.jpg" alt="exRNA Image" title="exRNA Image" class="img-responsive" style="width:680px;height:auto;">  
+
 <i><small>Extracellular RNAs (exRNAs) circulate through a range of human body fluids. NIH News Releases, 13 Aug. 2013, https://www.nih.gov/news-events/news-releases/nih-funds-research-explore-cell-communication-process.</small></i>
 
 ## tl;dr
@@ -80,14 +81,14 @@ where:
 **Our goal is to find the A matrix.** The X matrix is simply the RNA-Seq data, but the S matrix is unknown. Our approach estimates the S matrix by measuring RNA expression levels in pure, cellular tissues. It then uses non-negative matrix factorization (NMF) to estimate the tissue breakdown (A matrix) for any exRNA-Seq input (X matrix). Further details are given in the poster below (Yale Undergraduate Research Symposium, Fall 2015).  
 
 
-<embed src="/PDF/YURA_Poster_8_29_2015.pdf" width="700" height="430" type='application/pdf'>
+<embed src="/PDF/YURA_Poster_8_29_2015.pdf" width="450" height="300" type='application/pdf'>
 
 
 ## Other Contributions: Quality Control Metrics
 
 Part of the Gerstein Lab's work with the Extracellular RNA Communications Consortium is developing rigorous standards for analysis of exRNA data. As an offshoot of the data visualization project, we were able to justify objective standards to exclude samples with DNA contamination and/or low read counts. 
 
-<embed src="/PDF/Rozowsky_Poster_ISEV_2016.pdf" width="700" height="450" type='application/pdf'>
+<embed src="/PDF/Rozowsky_Poster_ISEV_2016.pdf" width="450" height="300" type='application/pdf'>
 
 
 ## Data Description

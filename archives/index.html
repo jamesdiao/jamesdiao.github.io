@@ -1,5 +1,52 @@
 ---
 layout: default
+title: Posts
+---
+<h1>{{ page.title }}</h1>
+<div id="posts">
+{% for category in site.categories %}
+  {% capture category_name %}{{ category | first }}{% endcapture %}
+  <div id="#{{ category_name | slugize }}"></div>
+  <h3 class="category-head">{{ category_name }}</h3>
+  <ul class="archive-group">
+    <p></p>
+    <a name="{{ category_name | slugize }}"></a>
+	  <table class="wide">
+	  {% for post in site.categories[category_name] %}
+      <tr>
+        <td class="left" align="right" valign="top" width="95">
+          <span>{{ post.date | date_to_string }}</span>
+        </td>
+        <td class="middle" valign="top">
+          —
+        </td>
+        <td class="right">
+          <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+        </td>
+      </tr>
+	  {% endfor %}
+	  </table>
+  </ul>
+{% endfor %}
+</div>
+
+
+<!-- »»»»»»»
+
+
+	    <span style="display:inline-block; width:6em; text-align:right">{{ post.date | date_to_string }}</span>—<a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+	    
+	    
+    {% for post in site.categories[category_name] %}
+    <article class="archive-item">
+      <li><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></li>
+    </article>
+    {% endfor %}
+-->
+
+<!--
+---
+layout: default
 title: Archives
 ---
 	<h1>{{ page.title }}</h1>
@@ -20,7 +67,7 @@ title: Archives
 	  {% endfor %}
 	  </table>
 	</ul>
-	
+-->	
 <!-- »»»»»»»
 	  {% for post in site.posts %}
 	    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>

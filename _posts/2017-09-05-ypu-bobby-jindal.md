@@ -29,7 +29,7 @@ Bobby Jindal gave a great talk at the YPU against single-payer healthcare. I dis
 
 On Tuesday, I attended the first 2017 meeting of the [Yale Political Union (YPU)](https://en.wikipedia.org/wiki/Yale_Political_Union). It was hosted in the beautiful Woolsey Hall, shown below. 
 
-<img src="/img/ypu-woolsey.jpg" alt="Woolsey" style="width: 700px;"/>
+<img src="/img/ypu-woolsey.jpg" alt="Woolsey" title="Woolsey" class="img-responsive" style="width:700px;height:auto;">  
 
 Despite having a reasonable interest in politics, I never took the time to hear from many of the awesome speakers who come to Yale. As a senior, I'm really hoping to go to more. I was also especially interested in today's topic (health care policy) and Bobby Jindal's broad experience in this area. The YPU summarized it well with their introduction (edited for conciseness): 
 
@@ -39,8 +39,7 @@ Despite having a reasonable interest in politics, I never took the time to hear 
 &nbsp;&nbsp;&nbsp;&nbsp; The son of Indian immigrants, Jindal was born and raised in Baton Rouge, Louisiana. He earned degrees in Biology and Public Policy from Brown University, where he graduated with honors. Accepted to both Yale Law School and Harvard Medical School, Jindal instead chose to study at New College, Oxford as a Rhodes Scholar, earning an M. Litt degree in Politics with an emphasis in Health Policy.  
 &nbsp;&nbsp;&nbsp;&nbsp; Jindal currently resides in Louisiana with his wife, Supriya, and three children.
 
-<img src="/img/ypu-jindal.jpg" alt="Jindal" style="width: 350px; "/>
-
+<img src="/img/ypu-jindal.jpg" alt="Jindal" class="img-responsive" style="width:350px;height:auto;">  
 <div class="center">
 Bobby Jindal, in the flesh.  
 </div><br><br>

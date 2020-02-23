@@ -1,38 +1,33 @@
 <!DOCTYPE html>
 	<html>
 		{% include head.html %}
-		<head>
-			<title>{{ page.title }}</title>
-		</head>
-		<body>
-			<div class="container">
-			
-			<nav>
-				<div class="header">
-		    		<ul class="nav nav-pills pull-right">
-		        		<li><a href="/">Home</a></li>
-			        	<li><a href="/about">About</a></li>
-			        	<li><a href="/categories">Categories</a></li>
-		        		<li><a href="/archives">Archives</a></li>
-		    		</ul>
-	    		<h3 class="text-muted"><a href="/about">JAMES DIAO</a></h3>
-	    		</div>
-			</nav>
-			
-			{{ content }}
-			
-			
-			<footer>
-				<div class="footer">
-		    		<ul class="nav nav-pills pull-right">
-		        		<li><a href="mailto:james.diao@gmail.com">email</a></li>
-		        		<li><a href="https://github.com/jamesdiao">github</a></li>
-		        		<li><a href="https://www.linkedin.com/in/jamesdiao/">Linkedin</a></li>
-					</ul>
-	    		<h5 class="text-muted">Version 2.5</h5>
-				</div>
-			</footer>
+		<title>{{ page.title }}</title>
+		<div class="container">
+		
+		<nav>
+			<div class="header">
+			  <h3 class="text-muted" style="display: inline"><a href="/about">James Diao</a></h3>
+    		<ul class="nav nav-pills pull-auto">
+        		<li><a href="/">Home</a></li>
+	        	<li><a href="/about">About</a></li>
+        		<li><a href="/archives">Posts</a></li>
+    		</ul>
+  		</div>
+		</nav>
+		
+		{{ content }}
+		
+		<footer>
+			<div class="footer">
+	    		<ul class="nav nav-pills pull-right">
+	        		<li><a href="mailto:diao.james@gmail.com">email</a></li>
+	        		<li><a href="https://github.com/jamesdiao">github</a></li>
+	        		<li><a href="https://www.linkedin.com/in/jamesdiao/">Linkedin</a></li>
+				</ul>
+    		<!-- <h5 class="text-muted">Version 2.5</h5> -->
+			</div>
+		</footer>
 
-			</div><!-- /.container -->
-		</body>
+		</div><!-- /.container -->
+
 	</html>

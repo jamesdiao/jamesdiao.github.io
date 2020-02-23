@@ -16,7 +16,7 @@ As part of the [Gerstein Lab](/research/gerstein-lab) at Yale, I contributed to 
 
 > Murillo OD, Thistlethwaite W, Rozowsky, J, Subramanian SL, Lucero R, Shah N, Jackson AR, Srinivasan S, Chung A, Laurent CD, Kitchen RR, Galeev T, Warrell J, **Diao JA**, Welsch JA, Hanspers K, Riutta A, Burgstaller-Muehlbacher S, Shah R, Yeri A, Jenkins L, Ahsen ME, Cordon-Cardo C, Dogra N, Gifford SM, Smith JT, Stolovitzky G, Tewari AK, Wunsch BH, Yadav KK, Danielson KM, Filant J, Moeller C, Nejad P, Paul A, Simonson B, Wong DK, Zhang X, Balaj L, Gandhi R, Sood AK, Alexander RP, Wang L, Wu C, Wong D, Galas DJ, Van Keuren-Jensen K, Patel T, Jones JC, Das S, Cheung K, Pico AR, Su AI, Raffai RL, Laurent LC, Roth ME, Gerstein MB, Milosavljevic A. "ExRNA Atlas analysis reveals distinct extracellular RNA types and their carriers present across human biofluids." *Cell*. 4 Apr 2019. [https://doi.org/10.1016/j.cell.2019.02.018](https://www.cell.com/cell/fulltext/S0092-8674(19)30167-9).
 
-<img src="/img/exrna-atlas-title.png" alt="exRNA Atlas Header" title="exRNA Atlas Header" style="width:700px;height:267px;">  
+<img src="/img/exrna-atlas-title.png" alt="exRNA Atlas Header" title="exRNA Atlas Header" class="img-responsive" style="width:700px;height:auto;">  
 
 
 ### Non-technical summary

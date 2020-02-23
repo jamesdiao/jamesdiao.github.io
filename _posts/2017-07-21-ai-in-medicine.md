@@ -61,7 +61,7 @@ Zak left us with four questions to consider:
 
 One prominent failure was IBM's Watson, which was [dropped by MD Anderson Cancer Center in early 2017](https://www.technologyreview.com/s/607965/a-reality-check-for-ibms-ai-ambitions/). Dozens of explanations have been offered for this event, but everyone would agree that this was quite the reality check for the field.  
 
-![IBM Watson Failure](/img/mda-watson.jpg){:height="250px" width="500px"}  
+<img src="/img/mda-watson.jpg" alt="IBM Watson Failure" title="IBM Watson Failure" class="img-responsive" style="width:500px;height:auto;">  
 
 However, recent news has been much more optimistic. [Google has developed a system to detect diabetic retinopathy using retinal images](http://jamanetwork.com/journals/jama/fullarticle/2588763), which it has already begun to deploy in India.  
 

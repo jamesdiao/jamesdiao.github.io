@@ -15,7 +15,9 @@ body {
 /* Custom page header */
 .header {
   border-bottom: 1px solid #e5e5e5;
+  margin-bottom: 43px
 }
+
 /* Make the masthead heading the same height as the navigation */
 .header h3 {
   margin-top: 0;
@@ -37,6 +39,7 @@ body {
     max-width: 750px;
   }
 }
+
 .container-narrow > hr {
   margin: 30px 0;
 }
@@ -60,7 +63,7 @@ body {
 }
 
 /* Responsive: Portrait tablets and up */
-@media screen and (min-width: 768px) {
+@media screen and (min-width: 487px) {
   /* Remove the padding we set earlier */
   .header,
   .marketing,
@@ -70,7 +73,7 @@ body {
   }
   /* Space out the masthead */
   .header {
-    margin-bottom: 30px;
+    margin-bottom: 25px;
   }
   /* Remove the bottom border on the jumbotron for visual effect */
   .jumbotron {

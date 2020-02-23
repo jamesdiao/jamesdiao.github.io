@@ -15,7 +15,7 @@ Over the past four years in the <a href="/research/gerstein-lab">Gerstein Lab</a
 
 
 <br>
-<img src="/img/ISEV-logo.jpg" alt="ISEV Logo" title="ISEV Logo">
+<img src="/img/ISEV-logo.jpg" alt="ISEV Logo" title="ISEV Logo" class="img-responsive" style="width:400px;height:auto;">  
 
 ### PT03.10 The extracellular RNA-Seq processing pipeline of the Extracellular RNA Communication Consortium
 

@@ -25,6 +25,10 @@ summary {
   display: block;
 }
 
+.pull-auto {
+  float: right;
+}
+
 nav ul li, footer ul li {
     display: inline;
 }

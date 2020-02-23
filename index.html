@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<i>Hi! This website is my collection of projects, puzzles, classes, talks, events, and experiences that have been important to me. Read more about me <a href="/about">here</a>, or check out a post below.</i>
+<i>Hi! This website is my collection of projects, puzzles, classes, events, and experiences that have been important to me. Read more about me <a href="/about">here</a>, or check out a post below.</i>
 
 <div class="posts">
   {% for post in site.posts %}
@@ -11,10 +11,12 @@ layout: default
       <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
 
       <div class="entry">
-
+    
         <b>{{ post.date | date_to_string }}</b>—{{ post.excerpt }}
-                 {% assign image = post.images[0] %}
-      {% include image.html image=image %}
+        {% comment %}
+        {% assign image = post.images[0] %}
+        {% include image=image %}
+        {% endcomment %}
       </div>
 
     </article>

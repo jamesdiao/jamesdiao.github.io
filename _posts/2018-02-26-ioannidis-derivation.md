@@ -135,16 +135,16 @@ Power decreases as you move down the rows (A to B to C). Bias and number of cond
 <table class="wide">
 <tr>
   <td class="left">
-    <b>Figure 1. Different Levels of Bias</b>
+    <b>1) Power vs. Bias</b>
     <br>
-    <img src="/img/ioannidis_bias.png" alt="PPV as a Function of Bias" title="PPV as a Function of Bias" style="width:350px;">
+    <img src="/img/ioannidis_bias.png" alt="PPV as a Function of Bias" title="PPV as a Function of Bias" class="img-responsive" style="width:350px;height:auto;">  
   </td>
   <td class = "center">
   </td>
   <td class="right">
-    <b>Figure 2. Different Numbers of Studies</b>
+    <b>2) Power vs. Study Number</b>
     <br>
-    <img src="/img/ioannidis_multiplicity.png" alt="PPV as a Function of Multiplicity" title="PPV as a Function of Multiplicity" style="width:350px;">
+    <img src="/img/ioannidis_multiplicity.png" alt="PPV as a Function of Multiplicity" title="PPV as a Function of Multiplicity" class="img-responsive" style="width:350px;height:auto;">  
   </td>
 </tr>
 </table>
@@ -247,7 +247,7 @@ The first step is to look at how often propositions are actually true. Let $R$ d
 $R$ also indicates the pre-study odds and the ratio of true to false propositions in a circumscribed field. We can then derive: 
 
 \begin{align}
-P(AT) &= \frac{P(AT)}{P(AT)+P(AF)} = \frac{R}{R+1} \\\
+P(AT) &= \frac{P(AT)}{P(AT)+P(AF)} = \frac{R}{R+1} \\\\\
 P(AF) &= \frac{P(AF)}{P(AT)+P(AF)} = \frac{1}{R+1}
 \end{align}
 
@@ -257,16 +257,15 @@ Using these results and the definitions of type I and II errors, we can complete
 
 A confusion matrix is a 2x2 table that records the probability of true positives (top left), false positives (top right), false negatives (bottom left), and true negatives (bottom right). Each square is a joint probability, which can be decomposed into a product of known values by Bayes' Rule.
 
-<img src="/img/confusion_matrix_1.png" alt="Confusion Matrix 1" style="width: 700px; "/>
+<img src="/img/confusion_matrix_1.png" alt="Confusion Matrix 1" class="img-responsive" style="width:700px;height:auto;">  
 
 ### 3.4 Positive Predictive Value
 To determine whether "most published research findings are false," we can evaluate the positive predictive value (PPV) by dividing the value in top left corner by the sum of the top row. 
 
 \begin{align}
-PPV &= P(AT \,|\, CT) \\\
-&= \frac{P(CT, AT)}{P(CT)} \\\
-&= \frac{P(CT, AT)}{P(CT, AT) + P(CT, AF)} \\\
-PPV &= \fbox{\\(\frac{R(1-\beta)}{R(1-\beta) + \alpha} \\)}
+PPV &= P(AT \,|\, CT) = \frac{P(CT, AT)}{P(CT)} \\\\\ 
+&= \frac{P(CT, AT)}{P(CT, AT) + P(CT, AF)} \\\\\
+&= \fbox{\\(\frac{R(1-\beta)}{R(1-\beta) + \alpha} \\)}
 \end{align}
 
 Thus, PPV is a function of the pre-study odds (*R*), the power (*&beta;*), and the significance level (*&alpha;*).
@@ -283,18 +282,20 @@ Let the subscript [ ]<sub>$u$</sub> indicate the value of [ ] after considering 
 
 We want to know how *&alpha;* and *&beta;* are affected by bias. First, we derive a few relations: 
 \begin{align}
-P(CF_u) &= (1-u)P(CF) \\\
-P(CT_u) &= 1- P(CF_u) \\\
-&= 1 - (1-u)(1-P(CT)) \\\
+P(CF_u) &= (1-u)P(CF) \\\\\
+\\\\\
+P(CT_u) &= 1- P(CF_u) \\\\\
+&= 1 - (1-u)(1-P(CT)) \\\\\
 &= u + (1-u)P(CT)
 \end{align}
 Using the above relations: 
 \begin{align}
-\beta_u &= P(CF_u \,|\, AT)  \\\
-&= (1-u) P(CF \,|\, AT) \\\
-&= \fbox{\\( (1-u) \beta \\)} \\\
-\alpha_u &= P(CT_u \,|\, AF)  \\\
-&= u + (1-u) P(CT \,|\, AF) \\\
+\beta_u &= P(CF_u \,|\, AT)  \\\\\
+&= (1-u) P(CF \,|\, AT) \\\\\
+&= \fbox{\\( (1-u) \beta \\)} \\\\\
+\\\\\
+\alpha_u &= P(CT_u \,|\, AF)  \\\\\
+&= u + (1-u) P(CT \,|\, AF) \\\\\
 &= \fbox{\\( u + (1-u)\alpha \\)}
 \end{align}
 
@@ -316,12 +317,13 @@ If all studies are equally powered:
 Using the above relation (under assumptions of independence and equal power): 
 
 \begin{align}
-\beta_n &= P(CF_n \,|\, AT)  \\\
-&= P(CF \,|\, AT)^n \\\
-&= \fbox{\\( \beta^n \\)} \\\
-\alpha_u &= P(CT_n \,|\, AF)  \\\
-&= 1 - P(CF_n \,|\, AF) \\\
-&= 1 - P(CF \,|\, AF)^n \\\
+\beta_n &= P(CF_n \,|\, AT)  \\\\\
+&= P(CF \,|\, AT)^n \\\\\
+&= \fbox{\\( \beta^n \\)} \\\\\
+\\\\\
+\alpha_u &= P(CT_n \,|\, AF)  \\\\\
+&= 1 - P(CF_n \,|\, AF) \\\\\
+&= 1 - P(CF \,|\, AF)^n \\\\\
 &= \fbox{\\( 1-(1-\alpha)^n \\)}
 \end{align}
 
@@ -334,16 +336,18 @@ Let the subscript [ ]<sub>$u$,$n$</sub> indicate the value of [ ] after correcti
 If power and bias are the same across all studies: 
 
 \begin{align}
-\beta_{u,n} &= \left[ (1-u)\beta \right]^n \\\
-&= \fbox{\\( (1-u)^n \beta^n \\)} \\\
-\alpha_{u,n} &= 1 - \left( 1-[u + (1-u) a] \right)^n \\\
+\beta_{u,n} &= \left[ (1-u)\beta \right]^n \\\\\
+&= \fbox{\\( (1-u)^n \beta^n \\)} \\\\\
+\\\\\
+\alpha_{u,n} &= 1 - \left( 1-[u + (1-u) a] \right)^n \\\\\
 &= \fbox{\\( 1 - (1-u)^n(1-a)^n \\)}
 \end{align}
 
 These are the modified *&alpha;* and *&beta;* values that I listed at the beginning. If power and bias differ between studies, we must index them individually: 
 
 \begin{align}
-\beta_{u,n} &= \prod_{i=1}^n (1-u_i) \beta_i  \\\
+\beta_{u,n} &= \prod_{i=1}^n (1-u_i) \beta_i  \\\\\
+\\\\\
 \alpha_{u,n} &= 1 - \prod_{i=1}^n (1-u_i)(1-a_i)
 \end{align}
 

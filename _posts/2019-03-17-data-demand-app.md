@@ -30,11 +30,11 @@ I built this app as a TA for a data science class at Harvard (BMI 704: Data Scie
 #### Parameterizing Probabilistic Reasoning
 This paper described medical reasoning as lying between two extremes of a continuum: from purely categorical (e.g., a flowchart) to purely probabilistic (e.g., Bayes' rule). The number of parameters required for the latter (a purely probabilistic decision system) can be computed from three parameters: the number of hypotheses to test (n), the number of tests (m), and the number of possible results per test (r). 
 
-\\[ \text{If test order matters: # parameters = } \;\; n \sum_{i=1}^m r^i \cdot {}_m P_i \\]
+\\[ \text{If test order matters:   # parameters = } \; n \sum_{i=1}^m r^i \cdot {}_m P_i \\]
 
-\\[ \text{If test order is ignored: # parameters = } \;\; n \sum_{i=1}^m r^i \cdot {}_m C_i \\]
+\\[ \text{If test order is ignored:   # parameters = } \; n \sum_{i=1}^m r^i \cdot {}_m C_i \\]
 
-\\[ \text{If conditional dependence is ignored: # parameters = } \;\; nmr \\]
+\\[ \text{If conditional dependence is ignored:  # parameters = } \; nmr \\]
 
 By eyeballing the equations and toggling a few parameters, we can see that the result depends most heavily on the number of tests. But to really get a sense of the scale, it helps to explore some numbers from an actual clinical application. 
 
