@@ -6,8 +6,8 @@ author: James Diao
 location: Boston, MA
 categories: [Medical_School, Class]
 excerpt: Scheduling and syllabus outline for my next four years
-images:
-  - url: /img/0-hst-courses.png
+image: /img/0-hst-courses.png
+featured: true
 ---
 
 Although I haven't actually taken many classes at HMS yet, the fixed course schedule of medical school means I have a pretty good idea what to expect. There's less diversity than in undergrad, but I'm very excited to focus in on medicine. I'm especially excited about some of HST's unique science/engineering offerings, such as medical imaging and informatics. 

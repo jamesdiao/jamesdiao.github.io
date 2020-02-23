@@ -6,8 +6,7 @@ author: James Diao
 location: Boston, MA
 categories: [Medical_School]
 excerpt: Notes from a biweekly seminar series that discusses different specialty areas. 
-images:
-  - url: /img/0-specialty-interest-series.png
+image: /img/0-specialty-interest-series.png
 ---
   
 ## Overview

@@ -6,8 +6,8 @@ author: James Diao
 location: New Haven, CT
 categories: Events
 excerpt: Former Maryland Governer Martin O'Malley on American immigration policy
-images:
-  - url: /img/0-ypu-martin-o-malley.png
+image: /img/0-ypu-martin-o-malley.png
+featured: true
 ---
 
 <style>

@@ -6,8 +6,8 @@ author: James Diao
 location: New Haven, CT
 categories: Class
 excerpt: Scheduling and syllabus info from my past four years
-images:
-  - url: /img/0-yale-courses.png
+image: /img/0-yale-courses.png
+featured: true
 ---
 
 <div class="col-sm-5">

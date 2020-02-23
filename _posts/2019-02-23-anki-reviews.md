@@ -6,8 +6,7 @@ date: 2019-02-23
 location: Boston, MA
 categories: [Medical_School, Projects]
 excerpt: How much work does it take to keep up with an Anki study schedule?
-images:
-  - url: /img/0-anki-reviews.png
+image: /img/0-anki-reviews.png
 ---
 
 ### Update

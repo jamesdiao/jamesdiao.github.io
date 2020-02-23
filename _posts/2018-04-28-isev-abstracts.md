@@ -6,8 +6,7 @@ author: James Diao
 location: New Haven, CT
 categories: Research
 excerpt: Comprehensive atlas of human exRNAs and the ERCC's exRNA-Seq analysis tools 
-images:
-  - url: /img/0-isev-abstracts.png
+image: /img/0-isev-abstracts.png
 ---
 
 

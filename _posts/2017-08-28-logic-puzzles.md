@@ -6,6 +6,7 @@ author: James Diao
 location: New Haven, CT
 categories: Miscellaneous
 excerpt: A compilation of some of my logic puzzles across all areas; none requires math
+featured: true
 ---
 
 I really enjoy logic puzzles, and I thought I'd compile a list of my favorites before I forget them all. Solutions range from recursion to binary encoding; none requires math. When you're ready, click on the title for an answer and explanation. (If you liked these, check out <a href="/miscellaneous/probability-problems">my probability problems</a>!)
@@ -54,7 +55,7 @@ I really enjoy logic puzzles, and I thought I'd compile a list of my favorites b
 > Both A and B are constructed from the same shapes, but B is magically missing a square. Where did it go?  
 ![Missing Square](/img/missing-square.png)
 
-5. [Coins in a Line](http://webcache.googleusercontent.com/search?q=cache:Z7msrbkjJcoJ:articles.leetcode.com/coins-in-line/)<a name="CoinsInLine"></a>
+5. Coins in a Line<a name="CoinsInLine"></a>
 > There are an even number of coins in a line, and each coin has a positive integer value. The total amount of money on the table is odd. We play a game: I take a coin from either end of the line, and then you take a coin from either end of the remaining line, and we continue taking turns until all the coins are gone. Whomever has more money at the end wins. What strategy can guarantee that the first player will always win? Is this strategy optimal (e.g., does it always maximize your earnings)?
 
 <br>
@@ -102,6 +103,6 @@ I really enjoy logic puzzles, and I thought I'd compile a list of my favorites b
 ### Unsorted
 1. [Prisoners and Hats](https://en.wikipedia.org/wiki/Hat_puzzle#Prisoners_and_hats_puzzle)
 2. [DataGenetics Blog](http://datagenetics.com/blog.html)
-3. [Quora](https://www.quora.com/What-are-the-best-brain-teasers?page_size=10#!n=72)
+3. [Quora](https://www.quora.com/What-are-the-best-brain-teasers)
 4. [Balance Puzzles](https://en.wikipedia.org/wiki/Balance_puzzle)
 5. [Notakto](https://en.wikipedia.org/wiki/Notakto)

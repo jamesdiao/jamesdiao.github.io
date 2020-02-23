@@ -6,8 +6,8 @@ author: James Diao
 location: New Haven, CT
 categories: Events
 excerpt: Bobby Jindal on single-payer healthcare
-images:
-  - url: /img/0-ypu-bobby-jindal.png
+image: /img/0-ypu-bobby-jindal.png
+featured: true
 ---
 
 <style>

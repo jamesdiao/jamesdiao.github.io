@@ -6,8 +6,8 @@ date: 2019-03-03
 location: Cambridge, MA
 categories: Projects
 excerpt: Judging at dance competitions is subjective but thankfully much better than random
-images:
-  - url: /img/o2cm_ex2.png
+image: /img/o2cm_ex2.png
+featured: true
 ---
 
 

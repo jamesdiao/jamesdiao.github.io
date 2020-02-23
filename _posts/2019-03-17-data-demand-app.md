@@ -6,8 +6,8 @@ date: 2019-03-17
 location: Boston, MA
 categories: Projects
 excerpt: Modeling the Bayesian reasoning's "voracious demand for data."
-images:
-  - url: /img/0-data-demand.png
+image: /img/0-data-demand.png
+featured: true
 ---
 
 <script type="text/javascript" async

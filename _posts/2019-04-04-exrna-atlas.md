@@ -6,8 +6,8 @@ date: 2019-04-04
 location: New Haven, CT
 categories: Research
 excerpt: Publication of my work in Gerstein Lab on the exRNA Atlas (dimensionality reduction, visualization, and deconvolution)
-images:
-  - url: /img/0-exrna-deconvolution.png
+image: /img/0-exrna-deconvolution.png
+featured: true
 ---
 
 
