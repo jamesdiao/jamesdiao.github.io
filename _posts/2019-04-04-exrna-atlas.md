@@ -7,7 +7,6 @@ location: New Haven, CT
 categories: Research
 excerpt: Publication of my work in Gerstein Lab on the exRNA Atlas (dimensionality reduction, visualization, and deconvolution)
 image: /img/0-exrna-deconvolution.png
-featured: true
 ---
 
 

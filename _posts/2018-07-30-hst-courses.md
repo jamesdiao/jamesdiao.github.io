@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Coursework at Harvard-MIT"
-date: 2018-05-24
+date: 2018-07-30
 author: James Diao
 location: Boston, MA
 categories: [Medical_School, Class]

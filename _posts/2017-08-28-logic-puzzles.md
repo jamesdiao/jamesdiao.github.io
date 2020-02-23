@@ -6,7 +6,6 @@ author: James Diao
 location: New Haven, CT
 categories: Miscellaneous
 excerpt: A compilation of some of my logic puzzles across all areas; none requires math
-featured: true
 ---
 
 I really enjoy logic puzzles, and I thought I'd compile a list of my favorites before I forget them all. Solutions range from recursion to binary encoding; none requires math. When you're ready, click on the title for an answer and explanation. (If you liked these, check out <a href="/miscellaneous/probability-problems">my probability problems</a>!)
