@@ -85,6 +85,7 @@ body {
   opacity: 0.8;
 }
 
+/*
 @media only screen and (max-width: 767px) {
   .notfound .notfound-404 {
     height: 115px;
@@ -97,3 +98,4 @@ body {
     height: 86px;
   }
 }
+*/

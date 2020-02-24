@@ -10,10 +10,16 @@ blockquote p { font-size: 16px; line-height: 1.6em; }
 .post-header { margin: 10px 0 30px; }
 
 .post-header h1 {
-  font-size: 42px;
+  font-size: 30px;
   letter-spacing: -1.75px;
   line-height: 1;
   font-weight: 300;
+}
+
+@media screen and (min-width: 487px) {
+  .post-header h1 {
+    font-size: 42px;
+  }
 }
 
 .post-header .meta {
