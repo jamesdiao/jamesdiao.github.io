@@ -62,9 +62,16 @@ body {
   margin-top: 28px;
 }
 
+.archive-group {
+  padding-left: 15px;
+}
+
 /* Responsive: Portrait tablets and up */
 @media screen and (min-width: 487px) {
   /* Remove the padding we set earlier */
+  .archive-group {
+    padding-left: 30px;
+  }
   .header,
   .marketing,
   .footer {

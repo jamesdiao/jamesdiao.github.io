@@ -2,15 +2,15 @@
 layout: default
 title: Posts
 ---
+
 <h1>{{ page.title }}</h1>
 <div id="posts">
 {% for category in site.categories %}
   {% capture category_name %}{{ category | first }}{% endcapture %}
-  <div id="#{{ category_name | slugize }}"></div>
+  <div id="#{{ category_name }}"></div>
   <h3 class="category-head">{{ category_name }}</h3>
   <ul class="archive-group">
-    <p></p>
-    <a name="{{ category_name | slugize }}"></a>
+    <a name="{{ category_name }}"></a>
 	  <table class="wide">
 	  {% for post in site.categories[category_name] %}
       <tr>
@@ -20,7 +20,7 @@ title: Posts
         <td class="middle" valign="top">
           —
         </td>
-        <td class="right">
+        <td class="right" valign="top">
           <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
         </td>
       </tr>
