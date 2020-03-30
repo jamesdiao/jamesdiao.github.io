@@ -2,7 +2,7 @@ title: James Diao
 author:
   name: jamesdiao.github.io
 markdown: kramdown
- email: diao.james@gmail.com
+email: diao.james@gmail.com
 permalink: /:categories/:title
 
 
