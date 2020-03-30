@@ -10,8 +10,16 @@ image: /img/0-hst-courses.png
 featured: true
 ---
 
-Although I haven't actually taken many classes at HMS yet, the fixed course schedule of medical school means I have a pretty good idea what to expect. There's less diversity than in undergrad, but I'm very excited to focus in on medicine. I'm especially excited about some of HST's unique science/engineering offerings, such as medical imaging and informatics. 
-<br><br>
+<div class="col-sm-6">
+  <img src="/img/hst-word-cloud-bg.png" alt="HST Word Cloud" title="HST Word Cloud" class="img-responsive" style="width:400px;height:auto;"> 
+</div>
+<div class="col-sm-6">
+  <br>
+  <p> Although I haven't actually taken many classes at HMS yet, the fixed course schedule of medical school means I have a pretty good idea what to expect. There's less diversity than in undergrad, but I'm very excited to focus in on medicine. I'm especially excited about some of HST's unique science/engineering offerings. Word cloud generated from <a href="/PDF/Syllabi/hst-course-summaries.pdf">HST course summaries</a>. </p>
+  <br><br>
+</div>
+
+
 
 <table class="table table-striped">
 <tbody>
@@ -30,8 +38,8 @@ Although I haven't actually taken many classes at HMS yet, the fixed course sche
 <td align="left"><small><a href="/PDF/Syllabi/HST030.pdf">HST 030 </a> <br>Human Pathology</small></td>
 <td align="left"><small><a href="/PDF/Syllabi/HST146.pdf">HST 146 </a> Biochemistry & Metabolism</small></td>
 <td align="left"><small><a href="/PDF/Syllabi/HST160.pdf">HST 160 </a> <br>Medical Genetics</small></td>
-<td align="left"><small><a href="/PDF/Syllabi/HST162.pdf">HST 162 </a> Molecular Diagnostics & Bioinformatics</small></td>
-<td align="left"><small><a href="/PDF/Syllabi/HST175.pdf">HST 175 </a> Cellular & Molecular Immunology</small></td>
+<td align="left"><small><a href="/PDF/Syllabi/HST162.pdf">HST 162 </a> Molecular Diagnostics</small></td>
+<td align="left"><small><a href="/PDF/Syllabi/HST175.pdf">HST 175 </a> Immunology</small></td>
 </tr>
 <tr class="odd">
 <td align="left"></td>

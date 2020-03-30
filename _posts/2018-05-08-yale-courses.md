@@ -11,7 +11,7 @@ featured: true
 ---
 
 <div class="col-sm-5">
-  <img src="/img/courses-word-cloud-bg.png" alt="Courses Word Cloud" title="Courses" class="img-responsive" style="width:250px;height:auto;">  
+  <img src="/img/courses-word-cloud-bg.png" alt="Courses Word Cloud" title="Courses Word Cloud" class="img-responsive" style="width:250px;height:auto;">  
 </div>
 <div class="col-sm-7">
   <br><br><br>
