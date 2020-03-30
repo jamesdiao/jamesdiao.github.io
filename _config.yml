@@ -1,3 +1,30 @@
-name: jamesdiao.github.io
+title: James Diao
+author:
+  name: jamesdiao.github.io
 markdown: kramdown
+ email: diao.james@gmail.com
 permalink: /:categories/:title
+
+
+description: Thoughts and projects in healthcare/tech/science
+baseurl: ""
+url: "http://jamesdiao.com" 
+github_username:  jamesdiao
+
+
+theme: minima
+plugins:
+  - jekyll-feed
+
+
+ exclude:
+   - .sass-cache/
+   - .jekyll-cache/
+   - gemfiles/
+   - Gemfile
+   - Gemfile.lock
+   - node_modules/
+   - vendor/bundle/
+   - vendor/cache/
+   - vendor/gems/
+   - vendor/ruby/

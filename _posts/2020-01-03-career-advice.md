@@ -1,17 +1,70 @@
 ---
 layout: post
-title: "On the Importance of Stroma"
+title: "Careers in Medicine + Technology: a README.txt for interested undergrads"
 author: James Diao
-date: 2019-12-21
+date: 2020-02-24
 location: Boston, MA
 categories: Research
-excerpt: A compilation of general career advice from smart people, organized around the principle of seeking
-images:
-  - url: /img/0-gerstein-timeline.png
+excerpt: My n=1 on choosing between degree programs, finding opportunities, and making career decisions
 published: false
 ---
 
+https://www-nature-com.ezp-prod1.hul.harvard.edu/articles/nbt.3671
+
 ### tl;dr 
+
+
+
+### Conventional tracks
+
+#### Clinical Medicine (MD)
+
+Careers in medicine tend to follow well-defined tracks. For anyone who wants to see patients as an M.D., the track is: 
+1. 4 years of M.D. 
+2. 3-7 years of residency
+3. 1-4+ years of fellowship
+
+Of course, there are many other career paths that see patients (RN, NP, PA, PT, OT, etc.), but I'm going to focus on MDs because that's what I understand best. 
+
+
+#### Research (PhD, MD, or MD/PhD)
+
+Careers in research also tend to follow well-defined tracks. For anyone who wants to see patients as an M.D., the track is: 
+1. 4 years of M.D. 
+2. 3-7 years of residency
+3. 1-4+ years of fellowship
+
+#### 
+
+
+### FAQ
+
+1. Should I do an MD, a PhD, both, or neither? 
+2. 
+
+
+n=1
+Problem and Position
+Value Prop and Interest
+Explore vs Exploit
+Optimizing early vs late
+Known tracks vs unknown 
+Reconciling your biases
+Jobs are from networking; communities
+Find role models and mentors
+Hammers vs nails
+
+Make a flowchart: 
+Do you want to see patients? Helping people 1 on 1 vs helping people at scale?
+Do you want to build products myself? 
+Do you want to discover things?
+Do you want financial stability? 
+Do you want geographic stability? 
+
+Pros and cons chart
+
+
+### asdf
 
 
 POST: Badges, greed, and stroma: an aggregated framework for general career advice

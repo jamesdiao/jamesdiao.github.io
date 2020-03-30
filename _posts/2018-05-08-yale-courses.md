@@ -29,7 +29,7 @@ featured: true
 <td align="left"><small><a href="/PDF/Syllabi/CHEM222L.pdf">CHEM 222L</a> Organic <br>Chem Lab I</small></td>
 <td align="left"><small><a href="/PDF/Syllabi/BIOL101.pdf">BIOL 101</a>/<a href="/PDF/Syllabi/BIOL102.pdf">102</a> Biology I</small></td>
 <td align="left"><small><a href="/PDF/Syllabi/PLSC281.pdf">PLSC 281</a> Bioethics</small></td>
-<td align="left"><small><a href="/PDF/Syllabi/HLTH230.pdf">HLTH 230</a> Global Health</small></td>
+<td align="left"><small><a href="/PDF/Syllabi/HLTH230.pdf">HLTH 230</a> <br>Global Health</small></td>
 </tr>
 <tr class="even">
 <td align="left"></td>
@@ -45,7 +45,7 @@ featured: true
 <td align="left">Fall</td>
 <td align="left"><small><a href="/PDF/Syllabi/SPAN110.pdf">SPAN 110</a> Spanish I</small></td>
 <td align="left"><small><a href="/PDF/Syllabi/MBB300.pdf">MB&amp;B 300</a> Biochem I</small></td>
-<td align="left"><small><a href="/PDF/Syllabi/PHYS180.pdf">PHYS 180</a> Physics I (Mechanics)</small></td>
+<td align="left"><small><a href="/PDF/Syllabi/PHYS180.pdf">PHYS 180</a> <br>Physics I (Mechanics)</small></td>
 <td align="left"><small><a href="/PDF/Syllabi/PHYS165L.pdf">PHYS 165L</a> Physics Lab I</small></td>
 <td align="left"><small><a href="/PDF/Syllabi/SDS238.pdf">S&amp;DS 238</a> Probability &amp; Statistics</small></td>
 </tr>
@@ -54,27 +54,27 @@ featured: true
 <td align="left">Spring</td>
 <td align="left"><small><a href="/PDF/Syllabi/SPAN120.pdf">SPAN 120</a> Spanish II</small></td>
 <td align="left"><small><a href="/PDF/Syllabi/MBB301.pdf">MB&amp;B 301</a> Biochem II</small></td>
-<td align="left"><small><a href="/PDF/Syllabi/ERM217.pdf">ER&amp;M 217</a> Latino/a Studies</small></td>
+<td align="left"><small><a href="/PDF/Syllabi/ERM217.pdf">ER&amp;M 217</a> <br>Latino/a Studies</small></td>
 <td align="left"><small><a href="/PDF/Syllabi/PHYS166L.pdf">PHYS 166L</a> Physics Lab II</small></td>
 <td align="left"><small></small></td>
 </tr>
 <tr class="odd">
 <td align="left"><b>Junior</b></td>
 <td align="left">Fall</td>
-<td align="left"><small><a href="/PDF/Syllabi/CHEM332.pdf">CHEM 332</a> Physical Chemistry I</small></td>
+<td align="left"><small><a href="/PDF/Syllabi/CHEM332.pdf">CHEM 332</a> Physical Chemistry</small></td>
 <td align="left"><small><a href="/PDF/Syllabi/MATH222.pdf">MATH 222</a> Linear<br> Algebra</small></td>
-<td align="left"><small><a href="/PDF/Syllabi/CPSC453.pdf">CPSC 453</a> Machine Learning in Biology</small></td>
-<td align="left"><small><a href="/PDF/Syllabi/ENGL120.pdf">ENGL 120</a> Writing the Modern Essay</small></td>
-<td align="left"><small><a href="/PDF/Syllabi/MBB470.pdf">MB&amp;B 470</a> Research <br>for Credit</small></td>
+<td align="left"><small><a href="/PDF/Syllabi/CPSC453.pdf">CPSC 453</a> <br>Machine Learning in Biology</small></td>
+<td align="left"><small><a href="/PDF/Syllabi/ENGL120.pdf">ENGL 120</a> <br>Writing the Modern Essay</small></td>
+<td align="left"><small><a href="/PDF/Syllabi/MBB470.pdf">MB&amp;B 470</a> Research</small></td>
 </tr>
 <tr class="even">
 <td align="left"></td>
 <td align="left">Spring</td>
 <td align="left"><small><a href="/PDF/Syllabi/SDS242.pdf">S&amp;DS 242</a> Theory of Statistics</small></td>
-<td align="left"><small><a href="/PDF/Syllabi/SDS230.pdf">S&amp;DS 230</a> <br>Intro Data Analysis</small></td>
+<td align="left"><small><a href="/PDF/Syllabi/SDS230.pdf">S&amp;DS 230</a> <br>Data Analysis</small></td>
 <td align="left"><small><a href="/PDF/Syllabi/MBB452.pdf">MB&amp;B 452</a> Biological Data Science</small></td>
 <td align="left"><small><a href="/PDF/Syllabi/PHYS181.pdf">PHYS 181</a> Physics II<br>  (E&M)</small></td>
-<td align="left"><small><a href="/PDF/Syllabi/MBB470.pdf">MB&amp;B 471</a> Research <br>for Credit</small></td>
+<td align="left"><small><a href="/PDF/Syllabi/MBB470.pdf">MB&amp;B 471</a> Research</small></td>
 </tr>
 <tr class="odd">
 <td align="left"><b>Senior</b></td>
@@ -90,7 +90,7 @@ featured: true
 <td align="left">Spring</td>
 <td align="left"><small><a href="/PDF/Syllabi/MBB490.pdf">MB&amp;B 490</a> Senior Thesis</small></td>
 <td align="left"><small><a href="/PDF/Syllabi/MBB302.pdf">MB&amp;B 302</a> Biophysics</small></td>
-<td align="left"><small><a href="/PDF/Syllabi/CPSC200.html">CPSC 200</a> Information Systems</small></td>
+<td align="left"><small><a href="/PDF/Syllabi/CPSC200.pdf">CPSC 200</a> Information Systems</small></td>
 <td align="left"><small><a href="/PDF/Syllabi/SDS365.pdf">S&amp;DS 365</a> <br>Data Mining & Machine Learning</small></td>
 <td align="left"><small><a href="/PDF/Syllabi/MUSI175.pdf">MUSI 175</a> Mathematics of Music</small></td>
 </tr>
