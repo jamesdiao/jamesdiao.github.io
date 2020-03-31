@@ -10,23 +10,20 @@ image: /img/0-ai-discussion.png
 featured: true
 ---
 
-Summary of the "AI in Medicine" discussion at the Department of Biomedical Informatics, Harvard Medical School. 
+Summary and reflections on the "AI in Medicine" discussion at the Department of Biomedical Informatics, Harvard Medical School. 
 
-![Medical Robot](/img/robodoc.jpg){:height="200px" width="200px"}
+<img src="/img/robodoc.jpg" alt="Medical Robot" title="Medical Robot" class="img-responsive" style="width:200px;height:auto;">
 
 ### Background, Definitions, and People:  
 
-1. [AI](https://en.wikipedia.org/wiki/Artificial_intelligence): Artificial Intelligence  
-2. [AI Winter](https://en.wikipedia.org/wiki/AI_winter): When research and investment interest in AI wanes.  
-3. [ROC](https://en.wikipedia.org/wiki/Receiver_operating_characteristic): Receiver Operative Characteristic, a curve that shows the diagnostic ability of a binary classifier as its threshold is varied.  
-4. [EHR](https://en.wikipedia.org/wiki/Electronic_health_record): Electronic Health Record  
-5. [EPIC](https://en.wikipedia.org/wiki/Epic_Systems): a private implementation of EHR holding >50% of US patient records. Closed platform makes it hard and costly for outsiders to interface with clinical or billing software.  
-6. [VC](https://en.wikipedia.org/wiki/Venture_capital): Venture Capital. Provides financing to small/early-stage firms with high growth potential. The life sciences sector received around $10 billion dollars in 2015, accounting for 18% of all VC funding.  
-7. [DBMI](http://dbmi.hms.harvard.edu/): Department of Biomedical Informatics, Harvard Medical School  
-8. [Zak](http://dbmi.hms.harvard.edu/person/faculty/zak-kohane): Isaac S. Kohane, MD/PhD, Chair of DBMI (and my PI)  
-9. [Maha](http://dbmi.hms.harvard.edu/person/faculty/maha-farhat): Maha Farhat, MD/MSc, Assistant Professor at DBMI  
-10. [Gabe](https://www.linkedin.com/in/gbrat/): Gabriel Brat, MD, MPH, Instructor in Surgery, HMS, co-founded Tissue Analytics, a smartphone imaging platform for wound documentation.  
-11. [Andy](https://scholar.harvard.edu/beam): Andrew Beam, PhD, Instructor at DBMI, specializes in deep learning.  
+1. [AI Winter](https://en.wikipedia.org/wiki/AI_winter): when research and investment interest in AI wanes due to unmet expectations.  
+2. [ROC](https://en.wikipedia.org/wiki/Receiver_operating_characteristic): <u>R</u>eceiver <u>O</u>perating <u>C</u>haracteristic- a curve that shows the diagnostic ability of a binary classifier as its threshold is varied.  
+3. [EPIC](https://en.wikipedia.org/wiki/Epic_Systems): private implementation of EHR holding >50% of US patient records. Closed platform makes it hard and costly for outsiders to interface with clinical or billing software.  
+4. [DBMI](http://dbmi.hms.harvard.edu/): <u>D</u>epartment of <u>B</u>io<u>M</u>edical <u>I</u>nformatics, Harvard Medical School  
+5. [Zak](http://dbmi.hms.harvard.edu/person/faculty/zak-kohane): Isaac S. Kohane, MD/PhD, Chair of DBMI (and my PI)  
+6. [Maha](http://dbmi.hms.harvard.edu/person/faculty/maha-farhat): Maha Farhat, MD/MSc, Assistant Professor at DBMI  
+7. [Gabe](https://www.linkedin.com/in/gbrat/): Gabriel Brat, MD, MPH, Instructor in Surgery, HMS, co-founded Tissue Analytics, a smartphone imaging platform for wound documentation.  
+8. [Andy](https://scholar.harvard.edu/beam): Andrew Beam, PhD, Instructor at DBMI, specializes in deep learning.  
 
 
 ### Part I: Beware the Hype

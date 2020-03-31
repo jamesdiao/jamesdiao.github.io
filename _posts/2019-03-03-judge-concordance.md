@@ -6,7 +6,7 @@ date: 2019-03-03
 location: Cambridge, MA
 categories: Projects
 excerpt: Judging at dance competitions is subjective but thankfully much better than random
-image: /img/o2cm_ex2.png
+image: /img/0-o2cm-ex2.png
 featured: true
 ---
 
@@ -20,13 +20,13 @@ A ballroom dance takes place with a number of couples (usually too many for the 
 
 #### Example final round (full rankings)  
 *7 judges have each ranked all 8 competitors*
-<img src="/img/o2cm_ex2.png" alt="O2CM Example 1" title="O2CM Example 1" class="img-responsive" style="width:700px;height:auto;">
+<img src="/img/0-o2cm-ex2.png" alt="O2CM Example 1" title="O2CM Example 1" class="img-responsive" style="width:700px;height:auto;">
 
 
 #### Example semifinal round (callbacks)
 *5 judges have each voted for their favorite 8 competitors (X); the top 8 advance to the final*
 
-<img src="/img/o2cm_ex1.png" alt="O2CM Example 2-1" title="O2CM Example 2-1" class="img-responsive" style="width:500px;height:auto;">
+<img src="/img/o2cm-ex1.png" alt="O2CM Example 2-1" title="O2CM Example 2-1" class="img-responsive" style="width:500px;height:auto;">
 
 
 ### Judge Concordance
@@ -40,10 +40,10 @@ http://results.o2cm.com/individual.asp?szLast=Diao&szFirst=James) (as of March 2
 <table class="wide">
 <tr>
   <td class="left">
-    <img src="/img/o2cm_mat1.png" alt="O2CM Placements 1" title="O2CM Placements 1" class="img-responsive" style="width:300px;height:auto;">
+    <img src="/img/o2cm-mat1.png" alt="O2CM Placements 1" title="O2CM Placements 1" class="img-responsive" style="width:300px;height:auto;">
   </td>
   <td class="right">
-    <img src="/img/o2cm_mat2.png" alt="O2CM Placements 2" title="O2CM Placements 2" class="img-responsive" style="width:300px;height:auto;">
+    <img src="/img/o2cm-mat2.png" alt="O2CM Placements 2" title="O2CM Placements 2" class="img-responsive" style="width:300px;height:auto;">
   </td>
 </tr>
 </table>
@@ -218,7 +218,7 @@ It might be good here to give an intuition of what each Kendall's W actually loo
 
 To estimate the distribution of concordance values, I computed Kendall's W using measured data and randomly simulated data (with the same couple:judge dimensions) for all 239 finals rounds. The two distributions are shown below. 
 
-<img src="/img/o2cm_distr.png" alt="O2CM Distributions" title="O2CM Distributions" class="img-responsive" style="width:700px;height:auto;">
+<img src="/img/o2cm-distr.png" alt="O2CM Distributions" title="O2CM Distributions" class="img-responsive" style="width:700px;height:auto;">
 
 - The mean **observed** concordance between judges (red curve) was 0.43.
 - The mean **simulated** concordance between random rankings (blue curve) was 0.13. 
@@ -231,15 +231,15 @@ Since we've explicitly modeled the null distribution here, we can compute the p-
 
 Just for kicks, we can also compute p-values based on a chi-squared approximation to the distribution of the Friedman test statistic. The p-values for all finals rounds are shown below. 
 
-<img src="/img/o2cm_pv.png" alt="O2CM P-values" title="O2CM P-values" class="img-responsive" style="width:605px;height:auto;">
+<img src="/img/o2cm-pv.png" alt="O2CM P-values" title="O2CM P-values" class="img-responsive" style="width:605px;height:auto;">
 
 This approximation finds that **69.9%** of finals rounds have judge concordances that are better than random (at significance level &alpha; = 0.05), which is pretty close the estimate derived from our simulated null distribution. 
 
 For the 20-30% of ranked rounds that are indistiguishable from random, we might suspect that this is driven by some lurking variable. The ones that come most readily to mind (and that are most easily accessible from o2cm) are level and dance style. For example, it might be the case that at lower levels, all dancers are making many mistakes and it may hard to distinguish them. It is also possible that the additional styling that happens in Rhythm and Latin dances make it easier to distinguish dancers. I just made up those hypotheses, but let's see what the data has to say. 
 
-<img src="/img/o2cm_bylevel.png" alt="O2CM By Level" title="O2CM By Level" class="img-responsive" style="width:585px;height:auto;">
+<img src="/img/o2cm-bylevel.png" alt="O2CM By Level" title="O2CM By Level" class="img-responsive" style="width:585px;height:auto;">
 
-<img src="/img/o2cm_bydance.png" alt="O2CM By Dance" title="O2CM By Dance" class="img-responsive" style="width:700px;height:auto;"><br>
+<img src="/img/o2cm-bydance.png" alt="O2CM By Dance" title="O2CM By Dance" class="img-responsive" style="width:700px;height:auto;"><br>
 
 Qualitatively, I'm convinced that there's no significant difference between any category in either level or dance style. Quantitatively, we can turn to an F-test for analysis of variance. 
 

@@ -19,9 +19,12 @@ MathJax.Hub.Config({
 });
 </script>
 
+
 ### tl;dr 
 Bayesian probabilistic inference is optimal under ideal circumstances, but can (depending on your assumptions) demand a LOT of conditional probability data. 
 > [https://manrai.shinyapps.io/PureProbabilisticReasoning/](https://manrai.shinyapps.io/PureProbabilisticReasoning/)
+
+<img src="/img/0-data-demand.png" alt="Bayesian Network Example" title="Bayesian Network Example" class="img-responsive" style="width:700px;height:auto;">
 
 ### Background
 

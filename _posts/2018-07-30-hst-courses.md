@@ -11,15 +11,13 @@ featured: true
 ---
 
 <div class="col-sm-6">
-  <img src="/img/hst-word-cloud-bg.png" alt="HST Word Cloud" title="HST Word Cloud" class="img-responsive" style="width:400px;height:auto;"> 
+  <img src="/img/hst-word-cloud-sm.png" alt="HST Word Cloud" title="HST Word Cloud" class="img-responsive" style="width:400px;height:auto;"> 
 </div>
 <div class="col-sm-6">
   <br>
-  <p> Although I haven't actually taken many classes at HMS yet, the fixed course schedule of medical school means I have a pretty good idea what to expect. There's less diversity than in undergrad, but I'm very excited to focus in on medicine. I'm especially excited about some of HST's unique science/engineering offerings. Word cloud generated from <a href="/PDF/Syllabi/hst-course-summaries.pdf">HST course summaries</a>. </p>
+  <p> Although I haven't actually taken many classes at HMS yet, the fixed course schedule of medical school means I have a pretty good idea what to expect. There's less diversity than in undergrad, but I'm very excited to focus in on medicine. I'm especially excited about some of HST's unique science/engineering offerings. Word cloud generated from <a href="https://meded.hms.harvard.edu/files/hms-med-ed/files/hstcoursesummaries.pdf">HST course summaries</a>. </p>
   <br><br>
 </div>
-
-
 
 <table class="table table-striped">
 <tbody>
