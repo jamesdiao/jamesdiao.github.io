@@ -228,17 +228,6 @@ In terms of getting in: you don't need all your research to be in ortho itself. 
 
 <br>
 
-#### Dominique Rowcroft
-
-> Diagnostic Radiology Resident at Mt. Auburn Hospital
-
-You’re behind the scenes and get less credit. But you also get to see more patients and this makes a humongous impact. You just have to be okay with being behind the scenes and getting less credit credit. Radiologists are consultants to other doctors; you talk to them about the patient's images and teach them what you’re seeing and what's going on. 
-
-People think that we just sit in a dark room and not talk to people, but that's not true. You have to meet patients to get consent, stick a needle, help them into the machine, etc. 
-
-My schedule starts around 7:30-8am. I read scans most of the time, with breaks for teaching and case rounds with residents. Most days, I finish by 5-6pm. 
-
-
 #### Priscilla Slanetz
 
 > Associate Professor of Radiology (Breast Imaging) and Radiology Residency Program Director at BIDMC
