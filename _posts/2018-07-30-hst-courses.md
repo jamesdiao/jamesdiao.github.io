@@ -15,7 +15,7 @@ featured: true
 </div>
 <div class="col-sm-6">
   <br>
-  <p> Although I haven't actually taken many classes at HMS yet, the fixed course schedule of medical school means I have a pretty good idea what to expect. There's less diversity than in undergrad, but I'm very excited to focus in on medicine. I'm especially excited about some of HST's unique science/engineering offerings. Word cloud generated from <a href="https://meded.hms.harvard.edu/files/hms-med-ed/files/hstcoursesummaries.pdf">HST course summaries</a>. </p>
+  <p> Although I haven't actually taken many classes at HMS yet, the fixed course schedule of medical school means I have a pretty good idea what to expect. There's less diversity than in undergrad, but I'm very excited to focus in on medicine. I'm especially excited about some of HST's unique science/engineering offerings. Word cloud generated from <a href="https://meded.hms.harvard.edu/hst-course-descriptions">HST course descriptions</a>. </p>
   <br><br>
 </div>
 
@@ -84,7 +84,7 @@ featured: true
 <tr class="odd">
 <td align="left"><b>M4</b></td>
 <td align="left">Year</td>
-<td align="left" colspan="4"><small><a href="https://meded.hms.harvard.edu/hst-course-descriptions?admin_panel=1#post-pce">Advanced Clinical and Science Electives</a>a <br>(Clinical and Course Electives, Sub-Internships, Research)</small></td>
+<td align="left" colspan="4"><small><a href="https://meded.hms.harvard.edu/hst-course-descriptions?admin_panel=1#post-pce">Advanced Clinical and Science Electives</a> <br>(Clinical and Course Electives, Sub-Internships, Research)</small></td>
 <td align="left"><small><a href="https://meded.hms.harvard.edu/hst-thesis-requirement">HST <br>Thesis</a></small></td>
 <td align="left"><small>USMLE <br>STEP 2</small></td>
 </tr>

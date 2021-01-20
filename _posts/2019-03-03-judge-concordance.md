@@ -33,8 +33,7 @@ A ballroom dance takes place with a number of couples (usually too many for the 
 It's easy after a competition to pore over one's callback numbers and final rankings and get caught up in which dances need the most work, or why some events went well and others didn't. My coach was skeptical of the reliability of these conclusions, saying that there was probably a lot of noise from different judge preferences, moods, or levels of paying attention. To test this hypothesis, I decided to take a look at the data. 
 
 ### The Data
-I used the package `scrapeR` to extract tables from the finals round of [all 239 events I've participated in](
-http://results.o2cm.com/individual.asp?szLast=Diao&szFirst=James) (as of March 2, 2019). The extracted raw data looked something like this (from my first event to my most recent): 
+I used the package `scrapeR` to extract tables from the finals round of all 239 events I've participated in (as of March 2, 2019). The extracted raw data looked something like this (from my first event to my most recent): 
 
 
 <table class="wide">

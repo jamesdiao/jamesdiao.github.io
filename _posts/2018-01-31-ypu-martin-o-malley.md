@@ -46,8 +46,6 @@ As a governor and mayor, Martin O'Malley made several decisions influencing the 
 &nbsp;&nbsp;&nbsp;&nbsp; As governor, O'Malley signed a law making the children of undocumented immigrants eligible for in-state college tuition; a majority (58%) of state voters passed the law. During the 2014 crisis involving undocumented immigrant children from Central America crossing the border, O'Malley faced White House criticism for refusing to open a facility to house them.  
 &nbsp;&nbsp;&nbsp;&nbsp; O'Malley endorses a path to citizenship, deferred action programs, limiting detentions, and stricter border enforcement. 
 
-O'Malley's [presidential campaign website](https://martinomalley.com/policy/immigration/) provides a more detailed breakdown. 
-
 ### Overview
 
 O'Malley was clearly a practiced orator. He only referenced his notes occasionally, and answered questions as smoothly as he delivered the speech itself. He cited evidence constantly and injected his speech with bits of flair. It's difficult to fact-check during a speech, of course, but the level of boo-hiss helped me gauge which claims I should look up later. 
